@@ -1,0 +1,282 @@
+fileFormatVersion: 2
+guid: 5a1ec141f5f326240890ba5c347cb56c
+timeCreated: 1490027116
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Cactus_Mesh
+    100002: //RootNode
+    100004: CC_Flower_01
+    100006: CC_Flower_02
+    100008: CC_Flower_03
+    100010: CC_Flower_04
+    100012: CC_Flower_05
+    100014: CC_Flower_06
+    100016: CC_Flower_07
+    100018: CC_Flower_08
+    100020: CC_Flower_09
+    100022: CC_Master
+    100024: group
+    100026: GRP_CC
+    100028: GRP_Joints
+    100030: joint1
+    100032: joint10
+    100034: joint2
+    100036: joint3
+    100038: joint4
+    100040: joint5
+    100042: joint6
+    100044: joint7
+    100046: joint8
+    100048: joint9
+    400000: Cactus_Mesh
+    400002: //RootNode
+    400004: CC_Flower_01
+    400006: CC_Flower_02
+    400008: CC_Flower_03
+    400010: CC_Flower_04
+    400012: CC_Flower_05
+    400014: CC_Flower_06
+    400016: CC_Flower_07
+    400018: CC_Flower_08
+    400020: CC_Flower_09
+    400022: CC_Master
+    400024: group
+    400026: GRP_CC
+    400028: GRP_Joints
+    400030: joint1
+    400032: joint10
+    400034: joint2
+    400036: joint3
+    400038: joint4
+    400040: joint5
+    400042: joint6
+    400044: joint7
+    400046: joint8
+    400048: joint9
+    4300000: Cactus_Mesh
+    7400000: manipulate
+    7400002: idle
+    9500000: //RootNode
+    13700000: Cactus_Mesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: manipulate
+      takeName: Take 001
+      firstFrame: 2
+      lastFrame: 51
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: group
+        weight: 1
+      - path: group/Cactus_Mesh
+        weight: 1
+      - path: GRP_CC
+        weight: 1
+      - path: GRP_CC/CC_Master
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Flower_01
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Flower_02
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Flower_03
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Flower_04
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Flower_05
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Flower_06
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Flower_07
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Flower_08
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Flower_09
+        weight: 1
+      - path: GRP_Joints
+        weight: 1
+      - path: GRP_Joints/joint1
+        weight: 1
+      - path: GRP_Joints/joint2
+        weight: 1
+      - path: GRP_Joints/joint3
+        weight: 1
+      - path: GRP_Joints/joint4
+        weight: 1
+      - path: GRP_Joints/joint5
+        weight: 1
+      - path: GRP_Joints/joint6
+        weight: 1
+      - path: GRP_Joints/joint7
+        weight: 1
+      - path: GRP_Joints/joint8
+        weight: 1
+      - path: GRP_Joints/joint9
+        weight: 1
+      - path: GRP_Joints/joint10
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: idle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: group
+        weight: 1
+      - path: group/Cactus_Mesh
+        weight: 1
+      - path: GRP_CC
+        weight: 1
+      - path: GRP_CC/CC_Master
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Flower_01
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Flower_02
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Flower_03
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Flower_04
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Flower_05
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Flower_06
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Flower_07
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Flower_08
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Flower_09
+        weight: 1
+      - path: GRP_Joints
+        weight: 1
+      - path: GRP_Joints/joint1
+        weight: 1
+      - path: GRP_Joints/joint2
+        weight: 1
+      - path: GRP_Joints/joint3
+        weight: 1
+      - path: GRP_Joints/joint4
+        weight: 1
+      - path: GRP_Joints/joint5
+        weight: 1
+      - path: GRP_Joints/joint6
+        weight: 1
+      - path: GRP_Joints/joint7
+        weight: 1
+      - path: GRP_Joints/joint8
+        weight: 1
+      - path: GRP_Joints/joint9
+        weight: 1
+      - path: GRP_Joints/joint10
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

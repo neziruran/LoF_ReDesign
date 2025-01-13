@@ -1,0 +1,464 @@
+fileFormatVersion: 2
+guid: 169e03620bd10ef47b2c1287a2b7ff22
+timeCreated: 1490027115
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: CC_Arm1_01
+    100002: CC_Arm1_01 1
+    100004: CC_Arm1_01 2
+    100006: CC_Arm1_01 3
+    100008: CC_Arm1_01 4
+    100010: CC_Arm1_02
+    100012: CC_Arm1_02 1
+    100014: CC_Arm1_02 2
+    100016: CC_Arm1_02 3
+    100018: CC_Arm1_02 4
+    100020: CC_Arm1_03
+    100022: CC_Arm1_03 1
+    100024: CC_Arm1_03 2
+    100026: CC_Arm1_03 3
+    100028: CC_Arm1_03 4
+    100030: CC_Direction
+    100032: CC_Master
+    100034: //RootNode
+    100036: GRP_Arm1
+    100038: GRP_Arm2
+    100040: GRP_Arm3
+    100042: GRP_Arm4
+    100044: GRP_Arm5
+    100046: GRP_CC
+    100048: GRP_Joints
+    100050: GRP_Mesh
+    100052: J_Arm1_02
+    100054: J_Arm1_03
+    100056: J_Arm1_04
+    100058: J_Arm1_05
+    100060: J_Arm2_02
+    100062: J_Arm2_03
+    100064: J_Arm2_04
+    100066: J_Arm2_04 1
+    100068: J_Arm2_05
+    100070: J_Arm3_01
+    100072: J_Arm3_02
+    100074: J_Arm3_03
+    100076: J_Arm3_04
+    100078: J_Arm3_04 1
+    100080: J_Arm3_05
+    100082: J_Arm4_04
+    100084: J_Arm4_05
+    100086: J_Arm5_01
+    100088: J_Arm5_02
+    100090: J_Arm5_03
+    100092: J_Arm5_04
+    100094: J_Arm5_05
+    100096: JE_Arm1_04
+    100098: JE_Arm1_04 1
+    100100: JE_Arm2_01
+    100102: JE_Center
+    100104: Mesh
+    100106: nurbsCircle1
+    400000: CC_Arm1_01
+    400002: CC_Arm1_01 1
+    400004: CC_Arm1_01 2
+    400006: CC_Arm1_01 3
+    400008: CC_Arm1_01 4
+    400010: CC_Arm1_02
+    400012: CC_Arm1_02 1
+    400014: CC_Arm1_02 2
+    400016: CC_Arm1_02 3
+    400018: CC_Arm1_02 4
+    400020: CC_Arm1_03
+    400022: CC_Arm1_03 1
+    400024: CC_Arm1_03 2
+    400026: CC_Arm1_03 3
+    400028: CC_Arm1_03 4
+    400030: CC_Direction
+    400032: CC_Master
+    400034: //RootNode
+    400036: GRP_Arm1
+    400038: GRP_Arm2
+    400040: GRP_Arm3
+    400042: GRP_Arm4
+    400044: GRP_Arm5
+    400046: GRP_CC
+    400048: GRP_Joints
+    400050: GRP_Mesh
+    400052: J_Arm1_02
+    400054: J_Arm1_03
+    400056: J_Arm1_04
+    400058: J_Arm1_05
+    400060: J_Arm2_02
+    400062: J_Arm2_03
+    400064: J_Arm2_04
+    400066: J_Arm2_04 1
+    400068: J_Arm2_05
+    400070: J_Arm3_01
+    400072: J_Arm3_02
+    400074: J_Arm3_03
+    400076: J_Arm3_04
+    400078: J_Arm3_04 1
+    400080: J_Arm3_05
+    400082: J_Arm4_04
+    400084: J_Arm4_05
+    400086: J_Arm5_01
+    400088: J_Arm5_02
+    400090: J_Arm5_03
+    400092: J_Arm5_04
+    400094: J_Arm5_05
+    400096: JE_Arm1_04
+    400098: JE_Arm1_04 1
+    400100: JE_Arm2_01
+    400102: JE_Center
+    400104: Mesh
+    400106: nurbsCircle1
+    4300000: Mesh
+    7400000: idle
+    7400002: manipulated
+    9500000: //RootNode
+    13700000: Mesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: GRP_CC
+        weight: 1
+      - path: GRP_CC/CC_Master
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Direction
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Direction/GRP_Arm1
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Direction/GRP_Arm1/CC_Arm1_03
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Direction/GRP_Arm1/CC_Arm1_03/CC_Arm1_02
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Direction/GRP_Arm1/CC_Arm1_03/CC_Arm1_02/CC_Arm1_01
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Direction/GRP_Arm2
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Direction/GRP_Arm2/CC_Arm1_03 1
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Direction/GRP_Arm2/CC_Arm1_03 1/CC_Arm1_02 1
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Direction/GRP_Arm2/CC_Arm1_03 1/CC_Arm1_02 1/CC_Arm1_01
+          1
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Direction/GRP_Arm3
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Direction/GRP_Arm3/CC_Arm1_03 2
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Direction/GRP_Arm3/CC_Arm1_03 2/CC_Arm1_02 2
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Direction/GRP_Arm3/CC_Arm1_03 2/CC_Arm1_02 2/CC_Arm1_01
+          2
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Direction/GRP_Arm4
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Direction/GRP_Arm4/CC_Arm1_03 3
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Direction/GRP_Arm4/CC_Arm1_03 3/CC_Arm1_02 3
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Direction/GRP_Arm4/CC_Arm1_03 3/CC_Arm1_02 3/CC_Arm1_01
+          3
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Direction/GRP_Arm5
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Direction/GRP_Arm5/CC_Arm1_03 4
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Direction/GRP_Arm5/CC_Arm1_03 4/CC_Arm1_02 4
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Direction/GRP_Arm5/CC_Arm1_03 4/CC_Arm1_02 4/CC_Arm1_01
+          4
+        weight: 1
+      - path: GRP_Joints
+        weight: 1
+      - path: GRP_Joints/J_Arm1_05
+        weight: 1
+      - path: GRP_Joints/J_Arm1_05/J_Arm1_04
+        weight: 1
+      - path: GRP_Joints/J_Arm1_05/J_Arm1_04/J_Arm1_03
+        weight: 1
+      - path: GRP_Joints/J_Arm1_05/J_Arm1_04/J_Arm1_03/J_Arm1_02
+        weight: 1
+      - path: GRP_Joints/J_Arm1_05/J_Arm1_04/J_Arm1_03/J_Arm1_02/JE_Arm1_04
+        weight: 1
+      - path: GRP_Joints/J_Arm2_05
+        weight: 1
+      - path: GRP_Joints/J_Arm2_05/J_Arm2_04
+        weight: 1
+      - path: GRP_Joints/J_Arm2_05/J_Arm2_04/J_Arm2_03
+        weight: 1
+      - path: GRP_Joints/J_Arm2_05/J_Arm2_04/J_Arm2_03/J_Arm2_02
+        weight: 1
+      - path: GRP_Joints/J_Arm2_05/J_Arm2_04/J_Arm2_03/J_Arm2_02/JE_Arm2_01
+        weight: 1
+      - path: GRP_Joints/J_Arm3_05
+        weight: 1
+      - path: GRP_Joints/J_Arm3_05/J_Arm3_04
+        weight: 1
+      - path: GRP_Joints/J_Arm3_05/J_Arm3_04/J_Arm3_03
+        weight: 1
+      - path: GRP_Joints/J_Arm3_05/J_Arm3_04/J_Arm3_03/J_Arm3_02
+        weight: 1
+      - path: GRP_Joints/J_Arm3_05/J_Arm3_04/J_Arm3_03/J_Arm3_02/J_Arm3_01
+        weight: 1
+      - path: GRP_Joints/J_Arm4_05
+        weight: 1
+      - path: GRP_Joints/J_Arm4_05/J_Arm4_04
+        weight: 1
+      - path: GRP_Joints/J_Arm4_05/J_Arm4_04/J_Arm3_04 1
+        weight: 1
+      - path: GRP_Joints/J_Arm4_05/J_Arm4_04/J_Arm3_04 1/J_Arm2_04 1
+        weight: 1
+      - path: GRP_Joints/J_Arm4_05/J_Arm4_04/J_Arm3_04 1/J_Arm2_04 1/JE_Arm1_04 1
+        weight: 1
+      - path: GRP_Joints/J_Arm5_05
+        weight: 1
+      - path: GRP_Joints/J_Arm5_05/J_Arm5_04
+        weight: 1
+      - path: GRP_Joints/J_Arm5_05/J_Arm5_04/J_Arm5_03
+        weight: 1
+      - path: GRP_Joints/J_Arm5_05/J_Arm5_04/J_Arm5_03/J_Arm5_02
+        weight: 1
+      - path: GRP_Joints/J_Arm5_05/J_Arm5_04/J_Arm5_03/J_Arm5_02/J_Arm5_01
+        weight: 1
+      - path: GRP_Joints/JE_Center
+        weight: 1
+      - path: GRP_Mesh
+        weight: 1
+      - path: GRP_Mesh/Mesh
+        weight: 1
+      - path: nurbsCircle1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: manipulated
+      takeName: Take 001
+      firstFrame: 81
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: GRP_CC
+        weight: 1
+      - path: GRP_CC/CC_Master
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Direction
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Direction/GRP_Arm1
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Direction/GRP_Arm1/CC_Arm1_03
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Direction/GRP_Arm1/CC_Arm1_03/CC_Arm1_02
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Direction/GRP_Arm1/CC_Arm1_03/CC_Arm1_02/CC_Arm1_01
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Direction/GRP_Arm2
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Direction/GRP_Arm2/CC_Arm1_03 1
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Direction/GRP_Arm2/CC_Arm1_03 1/CC_Arm1_02 1
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Direction/GRP_Arm2/CC_Arm1_03 1/CC_Arm1_02 1/CC_Arm1_01
+          1
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Direction/GRP_Arm3
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Direction/GRP_Arm3/CC_Arm1_03 2
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Direction/GRP_Arm3/CC_Arm1_03 2/CC_Arm1_02 2
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Direction/GRP_Arm3/CC_Arm1_03 2/CC_Arm1_02 2/CC_Arm1_01
+          2
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Direction/GRP_Arm4
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Direction/GRP_Arm4/CC_Arm1_03 3
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Direction/GRP_Arm4/CC_Arm1_03 3/CC_Arm1_02 3
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Direction/GRP_Arm4/CC_Arm1_03 3/CC_Arm1_02 3/CC_Arm1_01
+          3
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Direction/GRP_Arm5
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Direction/GRP_Arm5/CC_Arm1_03 4
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Direction/GRP_Arm5/CC_Arm1_03 4/CC_Arm1_02 4
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Direction/GRP_Arm5/CC_Arm1_03 4/CC_Arm1_02 4/CC_Arm1_01
+          4
+        weight: 1
+      - path: GRP_Joints
+        weight: 1
+      - path: GRP_Joints/J_Arm1_05
+        weight: 1
+      - path: GRP_Joints/J_Arm1_05/J_Arm1_04
+        weight: 1
+      - path: GRP_Joints/J_Arm1_05/J_Arm1_04/J_Arm1_03
+        weight: 1
+      - path: GRP_Joints/J_Arm1_05/J_Arm1_04/J_Arm1_03/J_Arm1_02
+        weight: 1
+      - path: GRP_Joints/J_Arm1_05/J_Arm1_04/J_Arm1_03/J_Arm1_02/JE_Arm1_04
+        weight: 1
+      - path: GRP_Joints/J_Arm2_05
+        weight: 1
+      - path: GRP_Joints/J_Arm2_05/J_Arm2_04
+        weight: 1
+      - path: GRP_Joints/J_Arm2_05/J_Arm2_04/J_Arm2_03
+        weight: 1
+      - path: GRP_Joints/J_Arm2_05/J_Arm2_04/J_Arm2_03/J_Arm2_02
+        weight: 1
+      - path: GRP_Joints/J_Arm2_05/J_Arm2_04/J_Arm2_03/J_Arm2_02/JE_Arm2_01
+        weight: 1
+      - path: GRP_Joints/J_Arm3_05
+        weight: 1
+      - path: GRP_Joints/J_Arm3_05/J_Arm3_04
+        weight: 1
+      - path: GRP_Joints/J_Arm3_05/J_Arm3_04/J_Arm3_03
+        weight: 1
+      - path: GRP_Joints/J_Arm3_05/J_Arm3_04/J_Arm3_03/J_Arm3_02
+        weight: 1
+      - path: GRP_Joints/J_Arm3_05/J_Arm3_04/J_Arm3_03/J_Arm3_02/J_Arm3_01
+        weight: 1
+      - path: GRP_Joints/J_Arm4_05
+        weight: 1
+      - path: GRP_Joints/J_Arm4_05/J_Arm4_04
+        weight: 1
+      - path: GRP_Joints/J_Arm4_05/J_Arm4_04/J_Arm3_04 1
+        weight: 1
+      - path: GRP_Joints/J_Arm4_05/J_Arm4_04/J_Arm3_04 1/J_Arm2_04 1
+        weight: 1
+      - path: GRP_Joints/J_Arm4_05/J_Arm4_04/J_Arm3_04 1/J_Arm2_04 1/JE_Arm1_04 1
+        weight: 1
+      - path: GRP_Joints/J_Arm5_05
+        weight: 1
+      - path: GRP_Joints/J_Arm5_05/J_Arm5_04
+        weight: 1
+      - path: GRP_Joints/J_Arm5_05/J_Arm5_04/J_Arm5_03
+        weight: 1
+      - path: GRP_Joints/J_Arm5_05/J_Arm5_04/J_Arm5_03/J_Arm5_02
+        weight: 1
+      - path: GRP_Joints/J_Arm5_05/J_Arm5_04/J_Arm5_03/J_Arm5_02/J_Arm5_01
+        weight: 1
+      - path: GRP_Joints/JE_Center
+        weight: 1
+      - path: GRP_Mesh
+        weight: 1
+      - path: GRP_Mesh/Mesh
+        weight: 1
+      - path: nurbsCircle1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,4 @@
+Animacion Abrirse;1;200;
+Estado Abierta;201;400;
+Animacion Cerrar;401;480;
+Idle;480;618;

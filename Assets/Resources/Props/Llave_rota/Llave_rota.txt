@@ -1,0 +1,3 @@
+Idle;1;41;
+
+Manipulated;44;91

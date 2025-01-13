@@ -1,0 +1,398 @@
+fileFormatVersion: 2
+guid: 2bfcc9e8aeffd4b519c199a66ab87bfc
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Bones01
+    100002: Bones02
+    100004: Bones03
+    100006: Bones04
+    100008: Bones05
+    100010: Bones06
+    100012: Bones07
+    100014: Bones08
+    100016: Bones09
+    100018: Bones10
+    100020: Bones11
+    100022: Bones12
+    100024: Bones13
+    100026: Bones14
+    100028: Bones15
+    100030: Bones16
+    100032: Bones17
+    100034: Bones18
+    100036: Bones19
+    100038: Bones20
+    100040: Bones21
+    100042: Bones22
+    100044: Bones23
+    100046: Bones24
+    100048: Bones25
+    100050: Bones26
+    100052: Bones27
+    100054: Bones28
+    100056: Bones29
+    100058: Bones30
+    100060: Bones31
+    100062: Bones32
+    100064: Bones33
+    100066: Bones34
+    100068: Bones35
+    100070: Bones36
+    100072: Bones37
+    100074: Bones38
+    100076: Bones39
+    100078: Bones40
+    100080: Bones41
+    100082: Box001
+    100084: //RootNode
+    100086: IK Chain001
+    100088: IK Chain002
+    100090: IK Chain003
+    100092: IK Chain004
+    400000: Bones01
+    400002: Bones02
+    400004: Bones03
+    400006: Bones04
+    400008: Bones05
+    400010: Bones06
+    400012: Bones07
+    400014: Bones08
+    400016: Bones09
+    400018: Bones10
+    400020: Bones11
+    400022: Bones12
+    400024: Bones13
+    400026: Bones14
+    400028: Bones15
+    400030: Bones16
+    400032: Bones17
+    400034: Bones18
+    400036: Bones19
+    400038: Bones20
+    400040: Bones21
+    400042: Bones22
+    400044: Bones23
+    400046: Bones24
+    400048: Bones25
+    400050: Bones26
+    400052: Bones27
+    400054: Bones28
+    400056: Bones29
+    400058: Bones30
+    400060: Bones31
+    400062: Bones32
+    400064: Bones33
+    400066: Bones34
+    400068: Bones35
+    400070: Bones36
+    400072: Bones37
+    400074: Bones38
+    400076: Bones39
+    400078: Bones40
+    400080: Bones41
+    400082: Box001
+    400084: //RootNode
+    400086: IK Chain001
+    400088: IK Chain002
+    400090: IK Chain003
+    400092: IK Chain004
+    4300000: Box001
+    7400000: idle
+    7400002: manipulated
+    9500000: //RootNode
+    13700000: Box001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 78
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bones14
+        weight: 1
+      - path: Bones14/Bones05
+        weight: 1
+      - path: Bones14/Bones05/Bones03
+        weight: 1
+      - path: Bones14/Bones05/Bones03/Bones01
+        weight: 1
+      - path: Bones14/Bones05/Bones03/Bones01/Bones02
+        weight: 1
+      - path: Bones14/Bones11
+        weight: 1
+      - path: Bones14/Bones11/Bones12
+        weight: 1
+      - path: Bones14/Bones15
+        weight: 1
+      - path: Bones14/Bones15/Bones07
+        weight: 1
+      - path: Bones14/Bones15/Bones07/Bones21
+        weight: 1
+      - path: Bones14/Bones15/Bones07/Bones21/Bones35
+        weight: 1
+      - path: Bones14/Bones15/Bones07/Bones21/Bones35/Bones36
+        weight: 1
+      - path: Bones14/Bones15/Bones09
+        weight: 1
+      - path: Bones14/Bones15/Bones09/Bones10
+        weight: 1
+      - path: Bones14/Bones15/Bones09/Bones10/Bones08
+        weight: 1
+      - path: Bones14/Bones15/Bones09/Bones10/Bones08/Bones06
+        weight: 1
+      - path: Bones14/Bones15/Bones13
+        weight: 1
+      - path: Bones14/Bones15/Bones25
+        weight: 1
+      - path: Bones14/Bones15/Bones25/Bones26
+        weight: 1
+      - path: Bones14/Bones15/Bones25/Bones26/Bones24
+        weight: 1
+      - path: Bones14/Bones15/Bones25/Bones26/Bones24/Bones22
+        weight: 1
+      - path: Bones14/Bones15/Bones25/Bones26/Bones24/Bones22/Bones23
+        weight: 1
+      - path: Bones14/Bones15/Bones30
+        weight: 1
+      - path: Bones14/Bones15/Bones30/Bones31
+        weight: 1
+      - path: Bones14/Bones15/Bones30/Bones31/Bones29
+        weight: 1
+      - path: Bones14/Bones15/Bones30/Bones31/Bones29/Bones27
+        weight: 1
+      - path: Bones14/Bones15/Bones30/Bones31/Bones29/Bones27/Bones28
+        weight: 1
+      - path: Bones14/Bones15/Bones34
+        weight: 1
+      - path: Bones14/Bones15/Bones34/Bones32
+        weight: 1
+      - path: Bones14/Bones15/Bones34/Bones32/Bones33
+        weight: 1
+      - path: Bones14/Bones15/Bones34/Bones32/Bones33/Bones40
+        weight: 1
+      - path: Bones14/Bones15/Bones41
+        weight: 1
+      - path: Bones14/Bones15/Bones41/Bones39
+        weight: 1
+      - path: Bones14/Bones15/Bones41/Bones39/Bones37
+        weight: 1
+      - path: Bones14/Bones15/Bones41/Bones39/Bones37/Bones38
+        weight: 1
+      - path: Bones14/Bones18
+        weight: 1
+      - path: Bones14/Bones18/Bones16
+        weight: 1
+      - path: Bones14/Bones18/Bones16/Bones17
+        weight: 1
+      - path: Bones14/Bones18/Bones16/Bones17/Bones04
+        weight: 1
+      - path: Bones14/Bones19
+        weight: 1
+      - path: Bones14/Bones19/Bones20
+        weight: 1
+      - path: Box001
+        weight: 1
+      - path: IK Chain001
+        weight: 1
+      - path: IK Chain002
+        weight: 1
+      - path: IK Chain003
+        weight: 1
+      - path: IK Chain004
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: manipulated
+      takeName: Take 001
+      firstFrame: 81
+      lastFrame: 153
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bones14
+        weight: 1
+      - path: Bones14/Bones05
+        weight: 1
+      - path: Bones14/Bones05/Bones03
+        weight: 1
+      - path: Bones14/Bones05/Bones03/Bones01
+        weight: 1
+      - path: Bones14/Bones05/Bones03/Bones01/Bones02
+        weight: 1
+      - path: Bones14/Bones11
+        weight: 1
+      - path: Bones14/Bones11/Bones12
+        weight: 1
+      - path: Bones14/Bones15
+        weight: 1
+      - path: Bones14/Bones15/Bones07
+        weight: 1
+      - path: Bones14/Bones15/Bones07/Bones21
+        weight: 1
+      - path: Bones14/Bones15/Bones07/Bones21/Bones35
+        weight: 1
+      - path: Bones14/Bones15/Bones07/Bones21/Bones35/Bones36
+        weight: 1
+      - path: Bones14/Bones15/Bones09
+        weight: 1
+      - path: Bones14/Bones15/Bones09/Bones10
+        weight: 1
+      - path: Bones14/Bones15/Bones09/Bones10/Bones08
+        weight: 1
+      - path: Bones14/Bones15/Bones09/Bones10/Bones08/Bones06
+        weight: 1
+      - path: Bones14/Bones15/Bones13
+        weight: 1
+      - path: Bones14/Bones15/Bones25
+        weight: 1
+      - path: Bones14/Bones15/Bones25/Bones26
+        weight: 1
+      - path: Bones14/Bones15/Bones25/Bones26/Bones24
+        weight: 1
+      - path: Bones14/Bones15/Bones25/Bones26/Bones24/Bones22
+        weight: 1
+      - path: Bones14/Bones15/Bones25/Bones26/Bones24/Bones22/Bones23
+        weight: 1
+      - path: Bones14/Bones15/Bones30
+        weight: 1
+      - path: Bones14/Bones15/Bones30/Bones31
+        weight: 1
+      - path: Bones14/Bones15/Bones30/Bones31/Bones29
+        weight: 1
+      - path: Bones14/Bones15/Bones30/Bones31/Bones29/Bones27
+        weight: 1
+      - path: Bones14/Bones15/Bones30/Bones31/Bones29/Bones27/Bones28
+        weight: 1
+      - path: Bones14/Bones15/Bones34
+        weight: 1
+      - path: Bones14/Bones15/Bones34/Bones32
+        weight: 1
+      - path: Bones14/Bones15/Bones34/Bones32/Bones33
+        weight: 1
+      - path: Bones14/Bones15/Bones34/Bones32/Bones33/Bones40
+        weight: 1
+      - path: Bones14/Bones15/Bones41
+        weight: 1
+      - path: Bones14/Bones15/Bones41/Bones39
+        weight: 1
+      - path: Bones14/Bones15/Bones41/Bones39/Bones37
+        weight: 1
+      - path: Bones14/Bones15/Bones41/Bones39/Bones37/Bones38
+        weight: 1
+      - path: Bones14/Bones18
+        weight: 1
+      - path: Bones14/Bones18/Bones16
+        weight: 1
+      - path: Bones14/Bones18/Bones16/Bones17
+        weight: 1
+      - path: Bones14/Bones18/Bones16/Bones17/Bones04
+        weight: 1
+      - path: Bones14/Bones19
+        weight: 1
+      - path: Bones14/Bones19/Bones20
+        weight: 1
+      - path: Box001
+        weight: 1
+      - path: IK Chain001
+        weight: 1
+      - path: IK Chain002
+        weight: 1
+      - path: IK Chain003
+        weight: 1
+      - path: IK Chain004
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

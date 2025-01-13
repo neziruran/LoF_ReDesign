@@ -1,0 +1,14 @@
+// Exported skin weight map file
+// 
+Box001	J_Head	Box001_J_Head.iff
+Box001	AletaDorsal|J_Dorsal	Box001_J_Dorsal.iff
+Box001	JE_Right_Fin	Box001_JE_Right_Fin.iff
+Box001	J_Right_Fin	Box001_J_Right_Fin.iff
+Box001	J_Left_Fin	Box001_J_Left_Fin.iff
+Box001	JE_BackFin	Box001_JE_BackFin.iff
+Box001	J_Neck	Box001_J_Neck.iff
+Box001	J_Neck|J_Dorsal	Box001_J_Dorsal_7.iff
+Box001	J_Lumbar	Box001_J_Lumbar.iff
+Box001	J_Back	Box001_J_Back.iff
+Box001	J_BackFin	Box001_J_BackFin.iff
+Box001	JE_Head	Box001_JE_Head.iff

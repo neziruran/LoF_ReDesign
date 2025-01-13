@@ -1,0 +1,3 @@
+idle;3;201;
+long_idle;207;260;
+manipulate;263;406;

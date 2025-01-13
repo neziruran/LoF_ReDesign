@@ -1,0 +1,4 @@
+Salmó Animation
+
+Iddle: 0-40
+Interaction: 70

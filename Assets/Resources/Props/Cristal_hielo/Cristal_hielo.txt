@@ -1,0 +1,2 @@
+idle;1;100;
+manipulate;103;215;

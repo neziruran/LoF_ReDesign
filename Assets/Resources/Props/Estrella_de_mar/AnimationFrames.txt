@@ -1,0 +1,4 @@
+Esrtrella de Mar:
+
+Idle: 0-80
+Interact: 80-120

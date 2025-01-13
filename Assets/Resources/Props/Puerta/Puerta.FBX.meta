@@ -1,0 +1,326 @@
+fileFormatVersion: 2
+guid: 1b6859867b572449d892830f6c9e6410
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Candado003
+    100002: Candado004
+    100004: Llave001
+    100006: Plane013
+    100008: Plane014
+    100010: Plane015
+    100012: Plane016
+    100014: Plane017
+    100016: Plane018
+    100018: //RootNode
+    100020: Pyramid002
+    100022: Pyramid003
+    100024: Pyramid004
+    100026: Pyramid005
+    100028: Pyramid006
+    100030: Pyramid007
+    100032: Sphere003
+    100034: Vawciow
+    100036: Vawciow004
+    100038: Vawciow005
+    100040: Vawciow006
+    100042: Vawciow007
+    100044: Vawciow008
+    400000: Candado003
+    400002: Candado004
+    400004: Llave001
+    400006: Plane013
+    400008: Plane014
+    400010: Plane015
+    400012: Plane016
+    400014: Plane017
+    400016: Plane018
+    400018: //RootNode
+    400020: Pyramid002
+    400022: Pyramid003
+    400024: Pyramid004
+    400026: Pyramid005
+    400028: Pyramid006
+    400030: Pyramid007
+    400032: Sphere003
+    400034: Vawciow
+    400036: Vawciow004
+    400038: Vawciow005
+    400040: Vawciow006
+    400042: Vawciow007
+    400044: Vawciow008
+    2300000: Candado003
+    2300002: Candado004
+    2300004: Llave001
+    2300006: Plane013
+    2300008: Plane014
+    2300010: Plane015
+    2300012: Plane016
+    2300014: Plane017
+    2300016: Plane018
+    2300018: Pyramid002
+    2300020: Pyramid003
+    2300022: Pyramid004
+    2300024: Pyramid005
+    2300026: Pyramid006
+    2300028: Pyramid007
+    2300030: Sphere003
+    2300032: Vawciow005
+    2300034: Vawciow006
+    2300036: Vawciow007
+    2300038: Vawciow008
+    3300000: Candado003
+    3300002: Candado004
+    3300004: Llave001
+    3300006: Plane013
+    3300008: Plane014
+    3300010: Plane015
+    3300012: Plane016
+    3300014: Plane017
+    3300016: Plane018
+    3300018: Pyramid002
+    3300020: Pyramid003
+    3300022: Pyramid004
+    3300024: Pyramid005
+    3300026: Pyramid006
+    3300028: Pyramid007
+    3300030: Sphere003
+    3300032: Vawciow005
+    3300034: Vawciow006
+    3300036: Vawciow007
+    3300038: Vawciow008
+    4300000: Llave001
+    4300002: Candado003
+    4300004: Candado004
+    4300006: Vawciow005
+    4300008: Vawciow006
+    4300010: Vawciow007
+    4300012: Plane013
+    4300014: Plane014
+    4300016: Plane015
+    4300018: Plane016
+    4300020: Plane017
+    4300022: Plane018
+    4300024: Sphere003
+    4300026: Pyramid002
+    4300028: Pyramid003
+    4300030: Pyramid004
+    4300032: Pyramid005
+    4300034: Pyramid006
+    4300036: Pyramid007
+    4300038: Vawciow008
+    7400000: manipulate
+    7400002: idle
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle
+      takeName: Take 001
+      firstFrame: 490
+      lastFrame: 573
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Llave001
+        weight: 1
+      - path: Plane013
+        weight: 1
+      - path: Plane014
+        weight: 1
+      - path: Plane015
+        weight: 1
+      - path: Plane016
+        weight: 1
+      - path: Plane017
+        weight: 1
+      - path: Plane018
+        weight: 1
+      - path: Pyramid002
+        weight: 1
+      - path: Pyramid003
+        weight: 1
+      - path: Pyramid004
+        weight: 1
+      - path: Pyramid005
+        weight: 1
+      - path: Pyramid006
+        weight: 1
+      - path: Pyramid007
+        weight: 1
+      - path: Sphere003
+        weight: 1
+      - path: Vawciow
+        weight: 1
+      - path: Vawciow004
+        weight: 1
+      - path: Vawciow004/Candado003
+        weight: 1
+      - path: Vawciow004/Candado004
+        weight: 1
+      - path: Vawciow005
+        weight: 1
+      - path: Vawciow006
+        weight: 1
+      - path: Vawciow007
+        weight: 1
+      - path: Vawciow008
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: manipulate
+      takeName: Take 001
+      firstFrame: 70
+      lastFrame: 400
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Llave001
+        weight: 1
+      - path: Plane013
+        weight: 1
+      - path: Plane014
+        weight: 1
+      - path: Plane015
+        weight: 1
+      - path: Plane016
+        weight: 1
+      - path: Plane017
+        weight: 1
+      - path: Plane018
+        weight: 1
+      - path: Pyramid002
+        weight: 1
+      - path: Pyramid003
+        weight: 1
+      - path: Pyramid004
+        weight: 1
+      - path: Pyramid005
+        weight: 1
+      - path: Pyramid006
+        weight: 1
+      - path: Pyramid007
+        weight: 1
+      - path: Sphere003
+        weight: 1
+      - path: Vawciow
+        weight: 1
+      - path: Vawciow004
+        weight: 1
+      - path: Vawciow004/Candado003
+        weight: 1
+      - path: Vawciow004/Candado004
+        weight: 1
+      - path: Vawciow005
+        weight: 1
+      - path: Vawciow006
+        weight: 1
+      - path: Vawciow007
+        weight: 1
+      - path: Vawciow008
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

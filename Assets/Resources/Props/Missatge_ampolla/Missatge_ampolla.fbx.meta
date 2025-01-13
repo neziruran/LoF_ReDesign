@@ -1,0 +1,380 @@
+fileFormatVersion: 2
+guid: 03ab361864659ee42be098f4c999c783
+timeCreated: 1490026612
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bottle
+    100002: CC_Bottle
+    100004: CC_J_01
+    100006: CC_J_02
+    100008: CC_J_03
+    100010: CC_J_04
+    100012: CC_J_05
+    100014: CC_J_06
+    100016: CC_J_07
+    100018: CC_J_08
+    100020: CC_J_09
+    100022: CC_J_10
+    100024: CC_J_11
+    100026: CC_J_12
+    100028: CC_J_13
+    100030: CC_J_14
+    100032: CC_J_15
+    100034: CC_Master
+    100036: CC_Paper
+    100038: GRP_CC
+    100040: GRP_Joints
+    100042: GRP_Mesh
+    100044: joint1
+    100046: joint10
+    100048: joint11
+    100050: joint12
+    100052: joint13
+    100054: joint14
+    100056: joint15
+    100058: joint16
+    100060: joint17
+    100062: joint2
+    100064: joint3
+    100066: joint4
+    100068: joint5
+    100070: joint6
+    100072: joint7
+    100074: joint8
+    100076: joint9
+    100078: Mapp
+    100080: //RootNode
+    400000: Bottle
+    400002: CC_Bottle
+    400004: CC_J_01
+    400006: CC_J_02
+    400008: CC_J_03
+    400010: CC_J_04
+    400012: CC_J_05
+    400014: CC_J_06
+    400016: CC_J_07
+    400018: CC_J_08
+    400020: CC_J_09
+    400022: CC_J_10
+    400024: CC_J_11
+    400026: CC_J_12
+    400028: CC_J_13
+    400030: CC_J_14
+    400032: CC_J_15
+    400034: CC_Master
+    400036: CC_Paper
+    400038: GRP_CC
+    400040: GRP_Joints
+    400042: GRP_Mesh
+    400044: joint1
+    400046: joint10
+    400048: joint11
+    400050: joint12
+    400052: joint13
+    400054: joint14
+    400056: joint15
+    400058: joint16
+    400060: joint17
+    400062: joint2
+    400064: joint3
+    400066: joint4
+    400068: joint5
+    400070: joint6
+    400072: joint7
+    400074: joint8
+    400076: joint9
+    400078: Mapp
+    400080: //RootNode
+    4300000: Bottle
+    4300002: Mapp
+    7400000: manipulate
+    7400002: idle
+    9500000: //RootNode
+    13700000: Bottle
+    13700002: Mapp
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: manipulate
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 35
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: GRP_CC
+        weight: 1
+      - path: GRP_CC/CC_Master
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Bottle
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Paper
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Paper/CC_J_01
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Paper/CC_J_01/CC_J_02
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Paper/CC_J_01/CC_J_02/CC_J_03
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Paper/CC_J_01/CC_J_02/CC_J_03/CC_J_04
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Paper/CC_J_01/CC_J_02/CC_J_03/CC_J_04/CC_J_05
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Paper/CC_J_01/CC_J_02/CC_J_03/CC_J_04/CC_J_05/CC_J_06
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Paper/CC_J_01/CC_J_02/CC_J_03/CC_J_04/CC_J_05/CC_J_06/CC_J_07
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Paper/CC_J_01/CC_J_02/CC_J_03/CC_J_04/CC_J_05/CC_J_06/CC_J_07/CC_J_08
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Paper/CC_J_01/CC_J_02/CC_J_03/CC_J_04/CC_J_05/CC_J_06/CC_J_07/CC_J_08/CC_J_09
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Paper/CC_J_01/CC_J_02/CC_J_03/CC_J_04/CC_J_05/CC_J_06/CC_J_07/CC_J_08/CC_J_09/CC_J_10
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Paper/CC_J_01/CC_J_02/CC_J_03/CC_J_04/CC_J_05/CC_J_06/CC_J_07/CC_J_08/CC_J_09/CC_J_10/CC_J_11
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Paper/CC_J_01/CC_J_02/CC_J_03/CC_J_04/CC_J_05/CC_J_06/CC_J_07/CC_J_08/CC_J_09/CC_J_10/CC_J_11/CC_J_12
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Paper/CC_J_01/CC_J_02/CC_J_03/CC_J_04/CC_J_05/CC_J_06/CC_J_07/CC_J_08/CC_J_09/CC_J_10/CC_J_11/CC_J_12/CC_J_13
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Paper/CC_J_01/CC_J_02/CC_J_03/CC_J_04/CC_J_05/CC_J_06/CC_J_07/CC_J_08/CC_J_09/CC_J_10/CC_J_11/CC_J_12/CC_J_13/CC_J_14
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Paper/CC_J_01/CC_J_02/CC_J_03/CC_J_04/CC_J_05/CC_J_06/CC_J_07/CC_J_08/CC_J_09/CC_J_10/CC_J_11/CC_J_12/CC_J_13/CC_J_14/CC_J_15
+        weight: 1
+      - path: GRP_Joints
+        weight: 1
+      - path: GRP_Joints/joint1
+        weight: 1
+      - path: GRP_Joints/joint1/joint2
+        weight: 1
+      - path: GRP_Joints/joint1/joint2/joint3
+        weight: 1
+      - path: GRP_Joints/joint1/joint2/joint3/joint4
+        weight: 1
+      - path: GRP_Joints/joint1/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: GRP_Joints/joint1/joint2/joint3/joint4/joint5/joint6
+        weight: 1
+      - path: GRP_Joints/joint1/joint2/joint3/joint4/joint5/joint6/joint7
+        weight: 1
+      - path: GRP_Joints/joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8
+        weight: 1
+      - path: GRP_Joints/joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8/joint9
+        weight: 1
+      - path: GRP_Joints/joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8/joint9/joint10
+        weight: 1
+      - path: GRP_Joints/joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8/joint9/joint10/joint11
+        weight: 1
+      - path: GRP_Joints/joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8/joint9/joint10/joint11/joint12
+        weight: 1
+      - path: GRP_Joints/joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8/joint9/joint10/joint11/joint12/joint13
+        weight: 1
+      - path: GRP_Joints/joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8/joint9/joint10/joint11/joint12/joint13/joint14
+        weight: 1
+      - path: GRP_Joints/joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8/joint9/joint10/joint11/joint12/joint13/joint14/joint15
+        weight: 1
+      - path: GRP_Joints/joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8/joint9/joint10/joint11/joint12/joint13/joint14/joint15/joint16
+        weight: 1
+      - path: GRP_Joints/joint17
+        weight: 1
+      - path: GRP_Mesh
+        weight: 1
+      - path: GRP_Mesh/Bottle
+        weight: 1
+      - path: GRP_Mesh/Mapp
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: idle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: GRP_CC
+        weight: 1
+      - path: GRP_CC/CC_Master
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Bottle
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Paper
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Paper/CC_J_01
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Paper/CC_J_01/CC_J_02
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Paper/CC_J_01/CC_J_02/CC_J_03
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Paper/CC_J_01/CC_J_02/CC_J_03/CC_J_04
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Paper/CC_J_01/CC_J_02/CC_J_03/CC_J_04/CC_J_05
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Paper/CC_J_01/CC_J_02/CC_J_03/CC_J_04/CC_J_05/CC_J_06
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Paper/CC_J_01/CC_J_02/CC_J_03/CC_J_04/CC_J_05/CC_J_06/CC_J_07
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Paper/CC_J_01/CC_J_02/CC_J_03/CC_J_04/CC_J_05/CC_J_06/CC_J_07/CC_J_08
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Paper/CC_J_01/CC_J_02/CC_J_03/CC_J_04/CC_J_05/CC_J_06/CC_J_07/CC_J_08/CC_J_09
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Paper/CC_J_01/CC_J_02/CC_J_03/CC_J_04/CC_J_05/CC_J_06/CC_J_07/CC_J_08/CC_J_09/CC_J_10
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Paper/CC_J_01/CC_J_02/CC_J_03/CC_J_04/CC_J_05/CC_J_06/CC_J_07/CC_J_08/CC_J_09/CC_J_10/CC_J_11
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Paper/CC_J_01/CC_J_02/CC_J_03/CC_J_04/CC_J_05/CC_J_06/CC_J_07/CC_J_08/CC_J_09/CC_J_10/CC_J_11/CC_J_12
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Paper/CC_J_01/CC_J_02/CC_J_03/CC_J_04/CC_J_05/CC_J_06/CC_J_07/CC_J_08/CC_J_09/CC_J_10/CC_J_11/CC_J_12/CC_J_13
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Paper/CC_J_01/CC_J_02/CC_J_03/CC_J_04/CC_J_05/CC_J_06/CC_J_07/CC_J_08/CC_J_09/CC_J_10/CC_J_11/CC_J_12/CC_J_13/CC_J_14
+        weight: 1
+      - path: GRP_CC/CC_Master/CC_Paper/CC_J_01/CC_J_02/CC_J_03/CC_J_04/CC_J_05/CC_J_06/CC_J_07/CC_J_08/CC_J_09/CC_J_10/CC_J_11/CC_J_12/CC_J_13/CC_J_14/CC_J_15
+        weight: 1
+      - path: GRP_Joints
+        weight: 1
+      - path: GRP_Joints/joint1
+        weight: 1
+      - path: GRP_Joints/joint1/joint2
+        weight: 1
+      - path: GRP_Joints/joint1/joint2/joint3
+        weight: 1
+      - path: GRP_Joints/joint1/joint2/joint3/joint4
+        weight: 1
+      - path: GRP_Joints/joint1/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: GRP_Joints/joint1/joint2/joint3/joint4/joint5/joint6
+        weight: 1
+      - path: GRP_Joints/joint1/joint2/joint3/joint4/joint5/joint6/joint7
+        weight: 1
+      - path: GRP_Joints/joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8
+        weight: 1
+      - path: GRP_Joints/joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8/joint9
+        weight: 1
+      - path: GRP_Joints/joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8/joint9/joint10
+        weight: 1
+      - path: GRP_Joints/joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8/joint9/joint10/joint11
+        weight: 1
+      - path: GRP_Joints/joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8/joint9/joint10/joint11/joint12
+        weight: 1
+      - path: GRP_Joints/joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8/joint9/joint10/joint11/joint12/joint13
+        weight: 1
+      - path: GRP_Joints/joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8/joint9/joint10/joint11/joint12/joint13/joint14
+        weight: 1
+      - path: GRP_Joints/joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8/joint9/joint10/joint11/joint12/joint13/joint14/joint15
+        weight: 1
+      - path: GRP_Joints/joint1/joint2/joint3/joint4/joint5/joint6/joint7/joint8/joint9/joint10/joint11/joint12/joint13/joint14/joint15/joint16
+        weight: 1
+      - path: GRP_Joints/joint17
+        weight: 1
+      - path: GRP_Mesh
+        weight: 1
+      - path: GRP_Mesh/Bottle
+        weight: 1
+      - path: GRP_Mesh/Mapp
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

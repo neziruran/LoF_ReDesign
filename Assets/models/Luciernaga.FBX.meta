@@ -1,0 +1,373 @@
+fileFormatVersion: 2
+guid: 7337bd99b22bff94a8af358dc0899e8b
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: AlaD001
+    100002: AlaD002
+    100004: AlaD003
+    100006: AlaD004
+    100008: AlaI001
+    100010: AlaI002
+    100012: AlaI003
+    100014: AlaI004
+    100016: AntenaD001
+    100018: AntenaD002
+    100020: AntenaD003
+    100022: AntenaD004
+    100024: AntenaD005
+    100026: AntenaD006
+    100028: AntenaD007
+    100030: AntenaI001
+    100032: AntenaI002
+    100034: AntenaI003
+    100036: AntenaI004
+    100038: AntenaI005
+    100040: AntenaI006
+    100042: AntenaI007
+    100044: Cabeza001
+    100046: Character001
+    100048: Cola001
+    100050: Cola002
+    100052: Cola003
+    100054: Cola004
+    100056: Cola005
+    100058: default
+    100060: IK Chain001
+    100062: IK Chain002
+    100064: IK Chain003
+    100066: IK Chain004
+    100068: IK Chain005
+    100070: IK Chain006
+    100072: IK Chain007
+    100074: IK Chain008
+    100076: IK Chain009
+    100078: //RootNode
+    100080: Pata1D001
+    100082: Pata1D002
+    100084: Pata1D003
+    100086: Pata1D004
+    100088: Pata1I001
+    100090: Pata1I002
+    100092: Pata1I003
+    100094: Pata1I004
+    100096: Pata1I005
+    100098: Pata2D001
+    100100: Pata2D002
+    100102: Pata2D003
+    100104: Pata2D004
+    100106: Pata2D005
+    100108: Pata2I001
+    100110: Pata2I002
+    100112: Pata2I003
+    100114: Pata2I004
+    100116: Pata2I005
+    100118: Pata3D001
+    100120: Pata3D002
+    100122: Pata3D003
+    100124: Pata3D004
+    100126: Pata3D005
+    100128: Pata3I001
+    100130: Pata3I002
+    100132: Pata3I003
+    100134: Pata3I004
+    100136: Pata3I005
+    100138: PataD005
+    100140: Tronco001
+    400000: AlaD001
+    400002: AlaD002
+    400004: AlaD003
+    400006: AlaD004
+    400008: AlaI001
+    400010: AlaI002
+    400012: AlaI003
+    400014: AlaI004
+    400016: AntenaD001
+    400018: AntenaD002
+    400020: AntenaD003
+    400022: AntenaD004
+    400024: AntenaD005
+    400026: AntenaD006
+    400028: AntenaD007
+    400030: AntenaI001
+    400032: AntenaI002
+    400034: AntenaI003
+    400036: AntenaI004
+    400038: AntenaI005
+    400040: AntenaI006
+    400042: AntenaI007
+    400044: Cabeza001
+    400046: Character001
+    400048: Cola001
+    400050: Cola002
+    400052: Cola003
+    400054: Cola004
+    400056: Cola005
+    400058: default
+    400060: IK Chain001
+    400062: IK Chain002
+    400064: IK Chain003
+    400066: IK Chain004
+    400068: IK Chain005
+    400070: IK Chain006
+    400072: IK Chain007
+    400074: IK Chain008
+    400076: IK Chain009
+    400078: //RootNode
+    400080: Pata1D001
+    400082: Pata1D002
+    400084: Pata1D003
+    400086: Pata1D004
+    400088: Pata1I001
+    400090: Pata1I002
+    400092: Pata1I003
+    400094: Pata1I004
+    400096: Pata1I005
+    400098: Pata2D001
+    400100: Pata2D002
+    400102: Pata2D003
+    400104: Pata2D004
+    400106: Pata2D005
+    400108: Pata2I001
+    400110: Pata2I002
+    400112: Pata2I003
+    400114: Pata2I004
+    400116: Pata2I005
+    400118: Pata3D001
+    400120: Pata3D002
+    400122: Pata3D003
+    400124: Pata3D004
+    400126: Pata3D005
+    400128: Pata3I001
+    400130: Pata3I002
+    400132: Pata3I003
+    400134: Pata3I004
+    400136: Pata3I005
+    400138: PataD005
+    400140: Tronco001
+    4300000: default
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: default
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 2
+      lastFrame: 22
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Character001
+        weight: 1
+      - path: Character001/IK Chain001
+        weight: 1
+      - path: Character001/IK Chain002
+        weight: 1
+      - path: Character001/IK Chain003
+        weight: 1
+      - path: Character001/IK Chain004
+        weight: 1
+      - path: Character001/IK Chain005
+        weight: 1
+      - path: Character001/IK Chain006
+        weight: 1
+      - path: Character001/IK Chain007
+        weight: 1
+      - path: Character001/IK Chain008
+        weight: 1
+      - path: Character001/IK Chain009
+        weight: 1
+      - path: Character001/Tronco001
+        weight: 1
+      - path: Character001/Tronco001/AlaD001
+        weight: 1
+      - path: Character001/Tronco001/AlaD001/AlaD002
+        weight: 1
+      - path: Character001/Tronco001/AlaD001/AlaD002/AlaD003
+        weight: 1
+      - path: Character001/Tronco001/AlaD001/AlaD002/AlaD003/AlaD004
+        weight: 1
+      - path: Character001/Tronco001/AlaI001
+        weight: 1
+      - path: Character001/Tronco001/AlaI001/AlaI002
+        weight: 1
+      - path: Character001/Tronco001/AlaI001/AlaI002/AlaI003
+        weight: 1
+      - path: Character001/Tronco001/AlaI001/AlaI002/AlaI003/AlaI004
+        weight: 1
+      - path: Character001/Tronco001/Cabeza001
+        weight: 1
+      - path: Character001/Tronco001/Cabeza001/AntenaD001
+        weight: 1
+      - path: Character001/Tronco001/Cabeza001/AntenaD001/AntenaD002
+        weight: 1
+      - path: Character001/Tronco001/Cabeza001/AntenaD001/AntenaD002/AntenaD003
+        weight: 1
+      - path: Character001/Tronco001/Cabeza001/AntenaD001/AntenaD002/AntenaD003/AntenaD004
+        weight: 1
+      - path: Character001/Tronco001/Cabeza001/AntenaD001/AntenaD002/AntenaD003/AntenaD004/AntenaD005
+        weight: 1
+      - path: Character001/Tronco001/Cabeza001/AntenaD001/AntenaD002/AntenaD003/AntenaD004/AntenaD005/AntenaD006
+        weight: 1
+      - path: Character001/Tronco001/Cabeza001/AntenaD001/AntenaD002/AntenaD003/AntenaD004/AntenaD005/AntenaD006/AntenaD007
+        weight: 1
+      - path: Character001/Tronco001/Cabeza001/AntenaI001
+        weight: 1
+      - path: Character001/Tronco001/Cabeza001/AntenaI001/AntenaI002
+        weight: 1
+      - path: Character001/Tronco001/Cabeza001/AntenaI001/AntenaI002/AntenaI003
+        weight: 1
+      - path: Character001/Tronco001/Cabeza001/AntenaI001/AntenaI002/AntenaI003/AntenaI004
+        weight: 1
+      - path: Character001/Tronco001/Cabeza001/AntenaI001/AntenaI002/AntenaI003/AntenaI004/AntenaI005
+        weight: 1
+      - path: Character001/Tronco001/Cabeza001/AntenaI001/AntenaI002/AntenaI003/AntenaI004/AntenaI005/AntenaI006
+        weight: 1
+      - path: Character001/Tronco001/Cabeza001/AntenaI001/AntenaI002/AntenaI003/AntenaI004/AntenaI005/AntenaI006/AntenaI007
+        weight: 1
+      - path: Character001/Tronco001/Cola001
+        weight: 1
+      - path: Character001/Tronco001/Cola001/Cola002
+        weight: 1
+      - path: Character001/Tronco001/Cola001/Cola002/Cola003
+        weight: 1
+      - path: Character001/Tronco001/Cola001/Cola002/Cola003/Cola004
+        weight: 1
+      - path: Character001/Tronco001/Cola001/Cola002/Cola003/Cola004/Cola005
+        weight: 1
+      - path: Character001/Tronco001/Pata1D001
+        weight: 1
+      - path: Character001/Tronco001/Pata1D001/Pata1D002
+        weight: 1
+      - path: Character001/Tronco001/Pata1D001/Pata1D002/Pata1D003
+        weight: 1
+      - path: Character001/Tronco001/Pata1D001/Pata1D002/Pata1D003/Pata1D004
+        weight: 1
+      - path: Character001/Tronco001/Pata1D001/Pata1D002/Pata1D003/Pata1D004/PataD005
+        weight: 1
+      - path: Character001/Tronco001/Pata1I001
+        weight: 1
+      - path: Character001/Tronco001/Pata1I001/Pata1I002
+        weight: 1
+      - path: Character001/Tronco001/Pata1I001/Pata1I002/Pata1I003
+        weight: 1
+      - path: Character001/Tronco001/Pata1I001/Pata1I002/Pata1I003/Pata1I004
+        weight: 1
+      - path: Character001/Tronco001/Pata1I001/Pata1I002/Pata1I003/Pata1I004/Pata1I005
+        weight: 1
+      - path: Character001/Tronco001/Pata2D001
+        weight: 1
+      - path: Character001/Tronco001/Pata2D001/Pata2D002
+        weight: 1
+      - path: Character001/Tronco001/Pata2D001/Pata2D002/Pata2D003
+        weight: 1
+      - path: Character001/Tronco001/Pata2D001/Pata2D002/Pata2D003/Pata2D004
+        weight: 1
+      - path: Character001/Tronco001/Pata2D001/Pata2D002/Pata2D003/Pata2D004/Pata2D005
+        weight: 1
+      - path: Character001/Tronco001/Pata2I001
+        weight: 1
+      - path: Character001/Tronco001/Pata2I001/Pata2I002
+        weight: 1
+      - path: Character001/Tronco001/Pata2I001/Pata2I002/Pata2I003
+        weight: 1
+      - path: Character001/Tronco001/Pata2I001/Pata2I002/Pata2I003/Pata2I004
+        weight: 1
+      - path: Character001/Tronco001/Pata2I001/Pata2I002/Pata2I003/Pata2I004/Pata2I005
+        weight: 1
+      - path: Character001/Tronco001/Pata3D001
+        weight: 1
+      - path: Character001/Tronco001/Pata3D001/Pata3D002
+        weight: 1
+      - path: Character001/Tronco001/Pata3D001/Pata3D002/Pata3D003
+        weight: 1
+      - path: Character001/Tronco001/Pata3D001/Pata3D002/Pata3D003/Pata3D004
+        weight: 1
+      - path: Character001/Tronco001/Pata3D001/Pata3D002/Pata3D003/Pata3D004/Pata3D005
+        weight: 1
+      - path: Character001/Tronco001/Pata3I001
+        weight: 1
+      - path: Character001/Tronco001/Pata3I001/Pata3I002
+        weight: 1
+      - path: Character001/Tronco001/Pata3I001/Pata3I002/Pata3I003
+        weight: 1
+      - path: Character001/Tronco001/Pata3I001/Pata3I002/Pata3I003/Pata3I004
+        weight: 1
+      - path: Character001/Tronco001/Pata3I001/Pata3I002/Pata3I003/Pata3I004/Pata3I005
+        weight: 1
+      - path: default
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

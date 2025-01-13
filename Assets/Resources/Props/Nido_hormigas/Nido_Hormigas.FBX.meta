@@ -1,0 +1,729 @@
+fileFormatVersion: 2
+guid: c32626ad0afbc4dea916983df26a5b3f
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: ADF
+    100002: ADF001
+    100004: AIF
+    100006: AIF001
+    100008: AntenaDerecha001
+    100010: AntenaDerecha002
+    100012: AntenaDerecha003
+    100014: AntenaDerecha004
+    100016: AntenaDerecha01
+    100018: AntenaDerecha02
+    100020: AntenaFinDerecha
+    100022: AntenaFinIzquierda
+    100024: Antenaizquierda001
+    100026: Antenaizquierda002
+    100028: AntenaIzquierda003
+    100030: AntenaIzquierda004
+    100032: AntenaIzquierda01
+    100034: AntenaIzquierda02
+    100036: Cabeza
+    100038: cabeza
+    100040: cabeza001
+    100042: Central
+    100044: Cone001
+    100046: Cuerpo
+    100048: cuerpo
+    100050: cuerpo001
+    100052: Culo
+    100054: culo
+    100056: culo001
+    100058: CuloFinal
+    100060: CuloFinal001
+    100062: EndCabeza
+    100064: EndCulo
+    100066: Malla001
+    100068: Malla002
+    100070: Malla003
+    100072: //RootNode
+    100074: PataDerecha001
+    100076: PataDerecha002
+    100078: PataDerecha003
+    100080: PataDerecha004
+    100082: PataDerecha005
+    100084: PataDerecha006
+    100086: PataDerecha007
+    100088: PataDerecha009
+    100090: PataDerecha01
+    100092: PataDerecha010
+    100094: PataDerecha011
+    100096: PataDerecha012
+    100098: PataDerecha013
+    100100: PataDerecha014
+    100102: PataDerecha015
+    100104: PataDerecha016
+    100106: PataDerecha02
+    100108: PataDerecha03
+    100110: PataDerecha04
+    100112: PataDerecha05
+    100114: PataDerecha06
+    100116: PataDerecha07
+    100118: PataDerecha08
+    100120: PataDerechaFina01l
+    100122: PataDerechaFina01l001
+    100124: PataDerechaFinal004
+    100126: PataDerechaFinal005
+    100128: PataDerechaFinal02
+    100130: PataDerechaFinal03
+    100132: PataFinalDerecha001
+    100134: PataFinalDerecha002
+    100136: PataFinalDerecha003
+    100138: PataFinalIzquierda001
+    100140: PataFinalIzquierda002
+    100142: PataFinalIzquierda003
+    100144: PataIzquierda001
+    100146: PataIzquierda002
+    100148: PataIzquierda003
+    100150: PataIzquierda004
+    100152: PataIzquierda005
+    100154: PataIzquierda006
+    100156: PataIzquierda007
+    100158: PataIzquierda009
+    100160: PataIzquierda01
+    100162: PataIzquierda010
+    100164: PataIzquierda011
+    100166: PataIzquierda012
+    100168: PataIzquierda013
+    100170: PataIzquierda014
+    100172: PataIzquierda015
+    100174: PataIzquierda016
+    100176: PataIzquierda02
+    100178: PataIzquierda03
+    100180: PataIzquierda04
+    100182: PataIzquierda05
+    100184: PataIzquierda06
+    100186: PataIzquierda07
+    100188: PataIzquierda08
+    100190: PataIzquierdaFinal004
+    100192: PataIzquierdaFinal005
+    100194: PataIzquierdaFinal006
+    100196: PataIzquierdaFinal01
+    100198: PataIzquierdaFinal02
+    100200: PataIzquierdaFinal03
+    400000: ADF
+    400002: ADF001
+    400004: AIF
+    400006: AIF001
+    400008: AntenaDerecha001
+    400010: AntenaDerecha002
+    400012: AntenaDerecha003
+    400014: AntenaDerecha004
+    400016: AntenaDerecha01
+    400018: AntenaDerecha02
+    400020: AntenaFinDerecha
+    400022: AntenaFinIzquierda
+    400024: Antenaizquierda001
+    400026: Antenaizquierda002
+    400028: AntenaIzquierda003
+    400030: AntenaIzquierda004
+    400032: AntenaIzquierda01
+    400034: AntenaIzquierda02
+    400036: Cabeza
+    400038: cabeza
+    400040: cabeza001
+    400042: Central
+    400044: Cone001
+    400046: Cuerpo
+    400048: cuerpo
+    400050: cuerpo001
+    400052: Culo
+    400054: culo
+    400056: culo001
+    400058: CuloFinal
+    400060: CuloFinal001
+    400062: EndCabeza
+    400064: EndCulo
+    400066: Malla001
+    400068: Malla002
+    400070: Malla003
+    400072: //RootNode
+    400074: PataDerecha001
+    400076: PataDerecha002
+    400078: PataDerecha003
+    400080: PataDerecha004
+    400082: PataDerecha005
+    400084: PataDerecha006
+    400086: PataDerecha007
+    400088: PataDerecha009
+    400090: PataDerecha01
+    400092: PataDerecha010
+    400094: PataDerecha011
+    400096: PataDerecha012
+    400098: PataDerecha013
+    400100: PataDerecha014
+    400102: PataDerecha015
+    400104: PataDerecha016
+    400106: PataDerecha02
+    400108: PataDerecha03
+    400110: PataDerecha04
+    400112: PataDerecha05
+    400114: PataDerecha06
+    400116: PataDerecha07
+    400118: PataDerecha08
+    400120: PataDerechaFina01l
+    400122: PataDerechaFina01l001
+    400124: PataDerechaFinal004
+    400126: PataDerechaFinal005
+    400128: PataDerechaFinal02
+    400130: PataDerechaFinal03
+    400132: PataFinalDerecha001
+    400134: PataFinalDerecha002
+    400136: PataFinalDerecha003
+    400138: PataFinalIzquierda001
+    400140: PataFinalIzquierda002
+    400142: PataFinalIzquierda003
+    400144: PataIzquierda001
+    400146: PataIzquierda002
+    400148: PataIzquierda003
+    400150: PataIzquierda004
+    400152: PataIzquierda005
+    400154: PataIzquierda006
+    400156: PataIzquierda007
+    400158: PataIzquierda009
+    400160: PataIzquierda01
+    400162: PataIzquierda010
+    400164: PataIzquierda011
+    400166: PataIzquierda012
+    400168: PataIzquierda013
+    400170: PataIzquierda014
+    400172: PataIzquierda015
+    400174: PataIzquierda016
+    400176: PataIzquierda02
+    400178: PataIzquierda03
+    400180: PataIzquierda04
+    400182: PataIzquierda05
+    400184: PataIzquierda06
+    400186: PataIzquierda07
+    400188: PataIzquierda08
+    400190: PataIzquierdaFinal004
+    400192: PataIzquierdaFinal005
+    400194: PataIzquierdaFinal006
+    400196: PataIzquierdaFinal01
+    400198: PataIzquierdaFinal02
+    400200: PataIzquierdaFinal03
+    2300000: Cone001
+    3300000: Cone001
+    4300000: Malla001
+    4300002: Cone001
+    4300004: Malla002
+    4300006: Malla003
+    7400000: idle
+    7400002: manipulated
+    9500000: //RootNode
+    13700000: Malla001
+    13700002: Malla002
+    13700004: Malla003
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle
+      takeName: Take 001
+      firstFrame: 360
+      lastFrame: 601
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: cabeza
+        weight: 1
+      - path: cabeza/AntenaDerecha01
+        weight: 1
+      - path: cabeza/AntenaDerecha01/AntenaDerecha02
+        weight: 1
+      - path: cabeza/AntenaDerecha01/AntenaDerecha02/ADF
+        weight: 1
+      - path: cabeza/AntenaIzquierda01
+        weight: 1
+      - path: cabeza/AntenaIzquierda01/AntenaIzquierda02
+        weight: 1
+      - path: cabeza/AntenaIzquierda01/AntenaIzquierda02/AIF
+        weight: 1
+      - path: cabeza/cuerpo
+        weight: 1
+      - path: cabeza/cuerpo/culo
+        weight: 1
+      - path: cabeza/cuerpo/culo/CuloFinal
+        weight: 1
+      - path: cabeza/cuerpo/culo/PataDerecha06
+        weight: 1
+      - path: cabeza/cuerpo/culo/PataDerecha06/PataDerecha07
+        weight: 1
+      - path: cabeza/cuerpo/culo/PataDerecha06/PataDerecha07/PataDerecha08
+        weight: 1
+      - path: cabeza/cuerpo/culo/PataDerecha06/PataDerecha07/PataDerecha08/PataDerechaFinal03
+        weight: 1
+      - path: cabeza/cuerpo/culo/PataIzquierda06
+        weight: 1
+      - path: cabeza/cuerpo/culo/PataIzquierda06/PataIzquierda07
+        weight: 1
+      - path: cabeza/cuerpo/culo/PataIzquierda06/PataIzquierda07/PataIzquierda08
+        weight: 1
+      - path: cabeza/cuerpo/culo/PataIzquierda06/PataIzquierda07/PataIzquierda08/PataIzquierdaFinal03
+        weight: 1
+      - path: cabeza/cuerpo/PataDerecha01
+        weight: 1
+      - path: cabeza/cuerpo/PataDerecha01/PataDerecha02
+        weight: 1
+      - path: cabeza/cuerpo/PataDerecha01/PataDerecha02/PataDerecha03
+        weight: 1
+      - path: cabeza/cuerpo/PataDerecha01/PataDerecha02/PataDerecha03/PataDerechaFina01l
+        weight: 1
+      - path: cabeza/cuerpo/PataDerecha04
+        weight: 1
+      - path: cabeza/cuerpo/PataDerecha04/PataDerecha05
+        weight: 1
+      - path: cabeza/cuerpo/PataDerecha04/PataDerecha05/PataDerechaFinal02
+        weight: 1
+      - path: cabeza/cuerpo/PataIzquierda01
+        weight: 1
+      - path: cabeza/cuerpo/PataIzquierda01/PataIzquierda02
+        weight: 1
+      - path: cabeza/cuerpo/PataIzquierda01/PataIzquierda02/PataIzquierda03
+        weight: 1
+      - path: cabeza/cuerpo/PataIzquierda01/PataIzquierda02/PataIzquierda03/PataIzquierdaFinal01
+        weight: 1
+      - path: cabeza/cuerpo/PataIzquierda04
+        weight: 1
+      - path: cabeza/cuerpo/PataIzquierda04/PataIzquierda05
+        weight: 1
+      - path: cabeza/cuerpo/PataIzquierda04/PataIzquierda05/PataIzquierdaFinal02
+        weight: 1
+      - path: cabeza001
+        weight: 1
+      - path: cabeza001/AntenaDerecha003
+        weight: 1
+      - path: cabeza001/AntenaDerecha003/AntenaDerecha004
+        weight: 1
+      - path: cabeza001/AntenaDerecha003/AntenaDerecha004/ADF001
+        weight: 1
+      - path: cabeza001/AntenaIzquierda003
+        weight: 1
+      - path: cabeza001/AntenaIzquierda003/AntenaIzquierda004
+        weight: 1
+      - path: cabeza001/AntenaIzquierda003/AntenaIzquierda004/AIF001
+        weight: 1
+      - path: cabeza001/cuerpo001
+        weight: 1
+      - path: cabeza001/cuerpo001/culo001
+        weight: 1
+      - path: cabeza001/cuerpo001/culo001/CuloFinal001
+        weight: 1
+      - path: cabeza001/cuerpo001/culo001/PataDerecha009
+        weight: 1
+      - path: cabeza001/cuerpo001/culo001/PataDerecha009/PataDerecha010
+        weight: 1
+      - path: cabeza001/cuerpo001/culo001/PataDerecha009/PataDerecha010/PataDerecha011
+        weight: 1
+      - path: cabeza001/cuerpo001/culo001/PataDerecha009/PataDerecha010/PataDerecha011/PataDerechaFinal004
+        weight: 1
+      - path: cabeza001/cuerpo001/culo001/PataIzquierda011
+        weight: 1
+      - path: cabeza001/cuerpo001/culo001/PataIzquierda011/PataIzquierda012
+        weight: 1
+      - path: cabeza001/cuerpo001/culo001/PataIzquierda011/PataIzquierda012/PataIzquierda013
+        weight: 1
+      - path: cabeza001/cuerpo001/culo001/PataIzquierda011/PataIzquierda012/PataIzquierda013/PataIzquierdaFinal005
+        weight: 1
+      - path: cabeza001/cuerpo001/PataDerecha012
+        weight: 1
+      - path: cabeza001/cuerpo001/PataDerecha012/PataDerecha013
+        weight: 1
+      - path: cabeza001/cuerpo001/PataDerecha012/PataDerecha013/PataDerechaFinal005
+        weight: 1
+      - path: cabeza001/cuerpo001/PataDerecha014
+        weight: 1
+      - path: cabeza001/cuerpo001/PataDerecha014/PataDerecha015
+        weight: 1
+      - path: cabeza001/cuerpo001/PataDerecha014/PataDerecha015/PataDerecha016
+        weight: 1
+      - path: cabeza001/cuerpo001/PataDerecha014/PataDerecha015/PataDerecha016/PataDerechaFina01l001
+        weight: 1
+      - path: cabeza001/cuerpo001/PataIzquierda014
+        weight: 1
+      - path: cabeza001/cuerpo001/PataIzquierda014/PataIzquierda015
+        weight: 1
+      - path: cabeza001/cuerpo001/PataIzquierda014/PataIzquierda015/PataIzquierdaFinal004
+        weight: 1
+      - path: cabeza001/cuerpo001/PataIzquierda016
+        weight: 1
+      - path: cabeza001/cuerpo001/PataIzquierda016/PataIzquierda009
+        weight: 1
+      - path: cabeza001/cuerpo001/PataIzquierda016/PataIzquierda009/PataIzquierda010
+        weight: 1
+      - path: cabeza001/cuerpo001/PataIzquierda016/PataIzquierda009/PataIzquierda010/PataIzquierdaFinal006
+        weight: 1
+      - path: Central
+        weight: 1
+      - path: Central/Cuerpo
+        weight: 1
+      - path: Central/Cuerpo/Cabeza
+        weight: 1
+      - path: Central/Cuerpo/Cabeza/AntenaDerecha001
+        weight: 1
+      - path: Central/Cuerpo/Cabeza/AntenaDerecha001/AntenaDerecha002
+        weight: 1
+      - path: Central/Cuerpo/Cabeza/AntenaDerecha001/AntenaDerecha002/AntenaFinDerecha
+        weight: 1
+      - path: Central/Cuerpo/Cabeza/Antenaizquierda001
+        weight: 1
+      - path: Central/Cuerpo/Cabeza/Antenaizquierda001/Antenaizquierda002
+        weight: 1
+      - path: Central/Cuerpo/Cabeza/Antenaizquierda001/Antenaizquierda002/AntenaFinIzquierda
+        weight: 1
+      - path: Central/Cuerpo/Cabeza/EndCabeza
+        weight: 1
+      - path: Central/Cuerpo/PataDerecha001
+        weight: 1
+      - path: Central/Cuerpo/PataDerecha001/PataDerecha002
+        weight: 1
+      - path: Central/Cuerpo/PataDerecha001/PataDerecha002/PataDerecha003
+        weight: 1
+      - path: Central/Cuerpo/PataDerecha001/PataDerecha002/PataDerecha003/PataFinalDerecha001
+        weight: 1
+      - path: Central/Cuerpo/PataIzquierda001
+        weight: 1
+      - path: Central/Cuerpo/PataIzquierda001/PataIzquierda002
+        weight: 1
+      - path: Central/Cuerpo/PataIzquierda001/PataIzquierda002/PataIzquierda003
+        weight: 1
+      - path: Central/Cuerpo/PataIzquierda001/PataIzquierda002/PataIzquierda003/PataFinalIzquierda001
+        weight: 1
+      - path: Central/Culo
+        weight: 1
+      - path: Central/Culo/EndCulo
+        weight: 1
+      - path: Central/Culo/PataDerecha006
+        weight: 1
+      - path: Central/Culo/PataDerecha006/PataDerecha007
+        weight: 1
+      - path: Central/Culo/PataDerecha006/PataDerecha007/PataFinalDerecha003
+        weight: 1
+      - path: Central/Culo/PataIzquierda006
+        weight: 1
+      - path: Central/Culo/PataIzquierda006/PataIzquierda007
+        weight: 1
+      - path: Central/Culo/PataIzquierda006/PataIzquierda007/PataFinalIzquierda003
+        weight: 1
+      - path: Central/PataDerecha004
+        weight: 1
+      - path: Central/PataDerecha004/PataDerecha005
+        weight: 1
+      - path: Central/PataDerecha004/PataDerecha005/PataFinalDerecha002
+        weight: 1
+      - path: Central/PataIzquierda004
+        weight: 1
+      - path: Central/PataIzquierda004/PataIzquierda005
+        weight: 1
+      - path: Central/PataIzquierda004/PataIzquierda005/PataFinalIzquierda002
+        weight: 1
+      - path: Cone001
+        weight: 1
+      - path: Malla001
+        weight: 1
+      - path: Malla002
+        weight: 1
+      - path: Malla003
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: manipulated
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 316
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: cabeza
+        weight: 1
+      - path: cabeza/AntenaDerecha01
+        weight: 1
+      - path: cabeza/AntenaDerecha01/AntenaDerecha02
+        weight: 1
+      - path: cabeza/AntenaDerecha01/AntenaDerecha02/ADF
+        weight: 1
+      - path: cabeza/AntenaIzquierda01
+        weight: 1
+      - path: cabeza/AntenaIzquierda01/AntenaIzquierda02
+        weight: 1
+      - path: cabeza/AntenaIzquierda01/AntenaIzquierda02/AIF
+        weight: 1
+      - path: cabeza/cuerpo
+        weight: 1
+      - path: cabeza/cuerpo/culo
+        weight: 1
+      - path: cabeza/cuerpo/culo/CuloFinal
+        weight: 1
+      - path: cabeza/cuerpo/culo/PataDerecha06
+        weight: 1
+      - path: cabeza/cuerpo/culo/PataDerecha06/PataDerecha07
+        weight: 1
+      - path: cabeza/cuerpo/culo/PataDerecha06/PataDerecha07/PataDerecha08
+        weight: 1
+      - path: cabeza/cuerpo/culo/PataDerecha06/PataDerecha07/PataDerecha08/PataDerechaFinal03
+        weight: 1
+      - path: cabeza/cuerpo/culo/PataIzquierda06
+        weight: 1
+      - path: cabeza/cuerpo/culo/PataIzquierda06/PataIzquierda07
+        weight: 1
+      - path: cabeza/cuerpo/culo/PataIzquierda06/PataIzquierda07/PataIzquierda08
+        weight: 1
+      - path: cabeza/cuerpo/culo/PataIzquierda06/PataIzquierda07/PataIzquierda08/PataIzquierdaFinal03
+        weight: 1
+      - path: cabeza/cuerpo/PataDerecha01
+        weight: 1
+      - path: cabeza/cuerpo/PataDerecha01/PataDerecha02
+        weight: 1
+      - path: cabeza/cuerpo/PataDerecha01/PataDerecha02/PataDerecha03
+        weight: 1
+      - path: cabeza/cuerpo/PataDerecha01/PataDerecha02/PataDerecha03/PataDerechaFina01l
+        weight: 1
+      - path: cabeza/cuerpo/PataDerecha04
+        weight: 1
+      - path: cabeza/cuerpo/PataDerecha04/PataDerecha05
+        weight: 1
+      - path: cabeza/cuerpo/PataDerecha04/PataDerecha05/PataDerechaFinal02
+        weight: 1
+      - path: cabeza/cuerpo/PataIzquierda01
+        weight: 1
+      - path: cabeza/cuerpo/PataIzquierda01/PataIzquierda02
+        weight: 1
+      - path: cabeza/cuerpo/PataIzquierda01/PataIzquierda02/PataIzquierda03
+        weight: 1
+      - path: cabeza/cuerpo/PataIzquierda01/PataIzquierda02/PataIzquierda03/PataIzquierdaFinal01
+        weight: 1
+      - path: cabeza/cuerpo/PataIzquierda04
+        weight: 1
+      - path: cabeza/cuerpo/PataIzquierda04/PataIzquierda05
+        weight: 1
+      - path: cabeza/cuerpo/PataIzquierda04/PataIzquierda05/PataIzquierdaFinal02
+        weight: 1
+      - path: cabeza001
+        weight: 1
+      - path: cabeza001/AntenaDerecha003
+        weight: 1
+      - path: cabeza001/AntenaDerecha003/AntenaDerecha004
+        weight: 1
+      - path: cabeza001/AntenaDerecha003/AntenaDerecha004/ADF001
+        weight: 1
+      - path: cabeza001/AntenaIzquierda003
+        weight: 1
+      - path: cabeza001/AntenaIzquierda003/AntenaIzquierda004
+        weight: 1
+      - path: cabeza001/AntenaIzquierda003/AntenaIzquierda004/AIF001
+        weight: 1
+      - path: cabeza001/cuerpo001
+        weight: 1
+      - path: cabeza001/cuerpo001/culo001
+        weight: 1
+      - path: cabeza001/cuerpo001/culo001/CuloFinal001
+        weight: 1
+      - path: cabeza001/cuerpo001/culo001/PataDerecha009
+        weight: 1
+      - path: cabeza001/cuerpo001/culo001/PataDerecha009/PataDerecha010
+        weight: 1
+      - path: cabeza001/cuerpo001/culo001/PataDerecha009/PataDerecha010/PataDerecha011
+        weight: 1
+      - path: cabeza001/cuerpo001/culo001/PataDerecha009/PataDerecha010/PataDerecha011/PataDerechaFinal004
+        weight: 1
+      - path: cabeza001/cuerpo001/culo001/PataIzquierda011
+        weight: 1
+      - path: cabeza001/cuerpo001/culo001/PataIzquierda011/PataIzquierda012
+        weight: 1
+      - path: cabeza001/cuerpo001/culo001/PataIzquierda011/PataIzquierda012/PataIzquierda013
+        weight: 1
+      - path: cabeza001/cuerpo001/culo001/PataIzquierda011/PataIzquierda012/PataIzquierda013/PataIzquierdaFinal005
+        weight: 1
+      - path: cabeza001/cuerpo001/PataDerecha012
+        weight: 1
+      - path: cabeza001/cuerpo001/PataDerecha012/PataDerecha013
+        weight: 1
+      - path: cabeza001/cuerpo001/PataDerecha012/PataDerecha013/PataDerechaFinal005
+        weight: 1
+      - path: cabeza001/cuerpo001/PataDerecha014
+        weight: 1
+      - path: cabeza001/cuerpo001/PataDerecha014/PataDerecha015
+        weight: 1
+      - path: cabeza001/cuerpo001/PataDerecha014/PataDerecha015/PataDerecha016
+        weight: 1
+      - path: cabeza001/cuerpo001/PataDerecha014/PataDerecha015/PataDerecha016/PataDerechaFina01l001
+        weight: 1
+      - path: cabeza001/cuerpo001/PataIzquierda014
+        weight: 1
+      - path: cabeza001/cuerpo001/PataIzquierda014/PataIzquierda015
+        weight: 1
+      - path: cabeza001/cuerpo001/PataIzquierda014/PataIzquierda015/PataIzquierdaFinal004
+        weight: 1
+      - path: cabeza001/cuerpo001/PataIzquierda016
+        weight: 1
+      - path: cabeza001/cuerpo001/PataIzquierda016/PataIzquierda009
+        weight: 1
+      - path: cabeza001/cuerpo001/PataIzquierda016/PataIzquierda009/PataIzquierda010
+        weight: 1
+      - path: cabeza001/cuerpo001/PataIzquierda016/PataIzquierda009/PataIzquierda010/PataIzquierdaFinal006
+        weight: 1
+      - path: Central
+        weight: 1
+      - path: Central/Cuerpo
+        weight: 1
+      - path: Central/Cuerpo/Cabeza
+        weight: 1
+      - path: Central/Cuerpo/Cabeza/AntenaDerecha001
+        weight: 1
+      - path: Central/Cuerpo/Cabeza/AntenaDerecha001/AntenaDerecha002
+        weight: 1
+      - path: Central/Cuerpo/Cabeza/AntenaDerecha001/AntenaDerecha002/AntenaFinDerecha
+        weight: 1
+      - path: Central/Cuerpo/Cabeza/Antenaizquierda001
+        weight: 1
+      - path: Central/Cuerpo/Cabeza/Antenaizquierda001/Antenaizquierda002
+        weight: 1
+      - path: Central/Cuerpo/Cabeza/Antenaizquierda001/Antenaizquierda002/AntenaFinIzquierda
+        weight: 1
+      - path: Central/Cuerpo/Cabeza/EndCabeza
+        weight: 1
+      - path: Central/Cuerpo/PataDerecha001
+        weight: 1
+      - path: Central/Cuerpo/PataDerecha001/PataDerecha002
+        weight: 1
+      - path: Central/Cuerpo/PataDerecha001/PataDerecha002/PataDerecha003
+        weight: 1
+      - path: Central/Cuerpo/PataDerecha001/PataDerecha002/PataDerecha003/PataFinalDerecha001
+        weight: 1
+      - path: Central/Cuerpo/PataIzquierda001
+        weight: 1
+      - path: Central/Cuerpo/PataIzquierda001/PataIzquierda002
+        weight: 1
+      - path: Central/Cuerpo/PataIzquierda001/PataIzquierda002/PataIzquierda003
+        weight: 1
+      - path: Central/Cuerpo/PataIzquierda001/PataIzquierda002/PataIzquierda003/PataFinalIzquierda001
+        weight: 1
+      - path: Central/Culo
+        weight: 1
+      - path: Central/Culo/EndCulo
+        weight: 1
+      - path: Central/Culo/PataDerecha006
+        weight: 1
+      - path: Central/Culo/PataDerecha006/PataDerecha007
+        weight: 1
+      - path: Central/Culo/PataDerecha006/PataDerecha007/PataFinalDerecha003
+        weight: 1
+      - path: Central/Culo/PataIzquierda006
+        weight: 1
+      - path: Central/Culo/PataIzquierda006/PataIzquierda007
+        weight: 1
+      - path: Central/Culo/PataIzquierda006/PataIzquierda007/PataFinalIzquierda003
+        weight: 1
+      - path: Central/PataDerecha004
+        weight: 1
+      - path: Central/PataDerecha004/PataDerecha005
+        weight: 1
+      - path: Central/PataDerecha004/PataDerecha005/PataFinalDerecha002
+        weight: 1
+      - path: Central/PataIzquierda004
+        weight: 1
+      - path: Central/PataIzquierda004/PataIzquierda005
+        weight: 1
+      - path: Central/PataIzquierda004/PataIzquierda005/PataFinalIzquierda002
+        weight: 1
+      - path: Cone001
+        weight: 1
+      - path: Malla001
+        weight: 1
+      - path: Malla002
+        weight: 1
+      - path: Malla003
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

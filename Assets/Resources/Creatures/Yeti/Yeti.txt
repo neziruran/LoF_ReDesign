@@ -1,0 +1,16 @@
+appear;281;325;
+idle;1;90;
+long_idle;550;766;
+look_up;940;1000;		
+walk;93;135;
+run;138;162; 
+celebrate1;769;833;		
+celebrate2;836;938;
+point_at;165;218;
+brief_greeting;368;405;
+effusive_greeting;466;547;
+manipulate;221;278;
+merge;328;365;
+
+
+

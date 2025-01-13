@@ -1,0 +1,318 @@
+fileFormatVersion: 2
+guid: 4010a6061605d654ab568daec368ca02
+timeCreated: 1490027115
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: AletaDorsal
+    100002: Box001
+    100004: CC_Back
+    100006: CC_BackFinn
+    100008: CC_Dorsal
+    100010: CC_Head
+    100012: CC_Left_Fin
+    100014: CC_Lumbar
+    100016: CC_Neck
+    100018: CC_Right_Fin
+    100020: curve1
+    100022: group
+    100024: GRP_CC
+    100026: GRP_Joints
+    100028: GRP_Mesh
+    100030: J_Back
+    100032: J_BackFin
+    100034: J_Dorsal
+    100036: J_Dorsal 1
+    100038: J_Head
+    100040: J_Left_Fin
+    100042: J_Lumbar
+    100044: J_Neck
+    100046: J_Right_Fin
+    100048: JE_BackFin
+    100050: JE_Dorsal
+    100052: JE_Head
+    100054: JE_Left_Fin
+    100056: JE_Right_Fin
+    100058: nurbsCircle1
+    100060: //RootNode
+    400000: AletaDorsal
+    400002: Box001
+    400004: CC_Back
+    400006: CC_BackFinn
+    400008: CC_Dorsal
+    400010: CC_Head
+    400012: CC_Left_Fin
+    400014: CC_Lumbar
+    400016: CC_Neck
+    400018: CC_Right_Fin
+    400020: curve1
+    400022: group
+    400024: GRP_CC
+    400026: GRP_Joints
+    400028: GRP_Mesh
+    400030: J_Back
+    400032: J_BackFin
+    400034: J_Dorsal
+    400036: J_Dorsal 1
+    400038: J_Head
+    400040: J_Left_Fin
+    400042: J_Lumbar
+    400044: J_Neck
+    400046: J_Right_Fin
+    400048: JE_BackFin
+    400050: JE_Dorsal
+    400052: JE_Head
+    400054: JE_Left_Fin
+    400056: JE_Right_Fin
+    400058: nurbsCircle1
+    400060: //RootNode
+    4300000: Box001
+    7400000: idle
+    7400002: manipulate
+    9500000: //RootNode
+    13700000: Box001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 35
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: group
+        weight: 1
+      - path: GRP_CC
+        weight: 1
+      - path: GRP_Joints
+        weight: 1
+      - path: GRP_Joints/AletaDorsal
+        weight: 1
+      - path: GRP_Joints/AletaDorsal/J_Dorsal
+        weight: 1
+      - path: GRP_Joints/AletaDorsal/J_Dorsal/JE_Dorsal
+        weight: 1
+      - path: GRP_Joints/J_Head
+        weight: 1
+      - path: GRP_Joints/J_Head/JE_Head
+        weight: 1
+      - path: GRP_Joints/J_Neck
+        weight: 1
+      - path: GRP_Joints/J_Neck/J_Dorsal 1
+        weight: 1
+      - path: GRP_Joints/J_Neck/J_Dorsal 1/J_Lumbar
+        weight: 1
+      - path: GRP_Joints/J_Neck/J_Dorsal 1/J_Lumbar/J_Back
+        weight: 1
+      - path: GRP_Joints/J_Neck/J_Dorsal 1/J_Lumbar/J_Back/J_BackFin
+        weight: 1
+      - path: GRP_Joints/J_Neck/J_Dorsal 1/J_Lumbar/J_Back/J_BackFin/JE_BackFin
+        weight: 1
+      - path: GRP_Joints/J_Neck/J_Left_Fin
+        weight: 1
+      - path: GRP_Joints/J_Neck/J_Left_Fin/JE_Left_Fin
+        weight: 1
+      - path: GRP_Joints/J_Neck/J_Right_Fin
+        weight: 1
+      - path: GRP_Joints/J_Neck/J_Right_Fin/JE_Right_Fin
+        weight: 1
+      - path: GRP_Mesh
+        weight: 1
+      - path: GRP_Mesh/Box001
+        weight: 1
+      - path: nurbsCircle1
+        weight: 1
+      - path: nurbsCircle1/CC_Neck
+        weight: 1
+      - path: nurbsCircle1/CC_Neck/CC_Dorsal
+        weight: 1
+      - path: nurbsCircle1/CC_Neck/CC_Dorsal/CC_Lumbar
+        weight: 1
+      - path: nurbsCircle1/CC_Neck/CC_Dorsal/CC_Lumbar/CC_Back
+        weight: 1
+      - path: nurbsCircle1/CC_Neck/CC_Dorsal/CC_Lumbar/CC_Back/CC_BackFinn
+        weight: 1
+      - path: nurbsCircle1/CC_Neck/CC_Dorsal/curve1
+        weight: 1
+      - path: nurbsCircle1/CC_Neck/CC_Head
+        weight: 1
+      - path: nurbsCircle1/CC_Neck/CC_Left_Fin
+        weight: 1
+      - path: nurbsCircle1/CC_Neck/CC_Right_Fin
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: manipulate
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 96
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: group
+        weight: 1
+      - path: GRP_CC
+        weight: 1
+      - path: GRP_Joints
+        weight: 1
+      - path: GRP_Joints/AletaDorsal
+        weight: 1
+      - path: GRP_Joints/AletaDorsal/J_Dorsal
+        weight: 1
+      - path: GRP_Joints/AletaDorsal/J_Dorsal/JE_Dorsal
+        weight: 1
+      - path: GRP_Joints/J_Head
+        weight: 1
+      - path: GRP_Joints/J_Head/JE_Head
+        weight: 1
+      - path: GRP_Joints/J_Neck
+        weight: 1
+      - path: GRP_Joints/J_Neck/J_Dorsal 1
+        weight: 1
+      - path: GRP_Joints/J_Neck/J_Dorsal 1/J_Lumbar
+        weight: 1
+      - path: GRP_Joints/J_Neck/J_Dorsal 1/J_Lumbar/J_Back
+        weight: 1
+      - path: GRP_Joints/J_Neck/J_Dorsal 1/J_Lumbar/J_Back/J_BackFin
+        weight: 1
+      - path: GRP_Joints/J_Neck/J_Dorsal 1/J_Lumbar/J_Back/J_BackFin/JE_BackFin
+        weight: 1
+      - path: GRP_Joints/J_Neck/J_Left_Fin
+        weight: 1
+      - path: GRP_Joints/J_Neck/J_Left_Fin/JE_Left_Fin
+        weight: 1
+      - path: GRP_Joints/J_Neck/J_Right_Fin
+        weight: 1
+      - path: GRP_Joints/J_Neck/J_Right_Fin/JE_Right_Fin
+        weight: 1
+      - path: GRP_Mesh
+        weight: 1
+      - path: GRP_Mesh/Box001
+        weight: 1
+      - path: nurbsCircle1
+        weight: 1
+      - path: nurbsCircle1/CC_Neck
+        weight: 1
+      - path: nurbsCircle1/CC_Neck/CC_Dorsal
+        weight: 1
+      - path: nurbsCircle1/CC_Neck/CC_Dorsal/CC_Lumbar
+        weight: 1
+      - path: nurbsCircle1/CC_Neck/CC_Dorsal/CC_Lumbar/CC_Back
+        weight: 1
+      - path: nurbsCircle1/CC_Neck/CC_Dorsal/CC_Lumbar/CC_Back/CC_BackFinn
+        weight: 1
+      - path: nurbsCircle1/CC_Neck/CC_Dorsal/curve1
+        weight: 1
+      - path: nurbsCircle1/CC_Neck/CC_Head
+        weight: 1
+      - path: nurbsCircle1/CC_Neck/CC_Left_Fin
+        weight: 1
+      - path: nurbsCircle1/CC_Neck/CC_Right_Fin
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

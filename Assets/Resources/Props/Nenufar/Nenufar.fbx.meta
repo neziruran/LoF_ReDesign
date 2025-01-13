@@ -1,0 +1,1260 @@
+fileFormatVersion: 2
+guid: 4171755ef60b7074a8b916c83539e345
+timeCreated: 1490027116
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: CC_1Large_01
+    100002: CC_1Large_01 1
+    100004: CC_1Large_03
+    100006: CC_1Large_03 1
+    100008: CC_1Large_04
+    100010: CC_1Large_04 1
+    100012: CC_1Large_07
+    100014: CC_1Large_07 1
+    100016: CC_1Middle_01
+    100018: CC_1Middle_01 1
+    100020: CC_1Middle_02
+    100022: CC_1Middle_02 1
+    100024: CC_1Middle_03
+    100026: CC_1Middle_03 1
+    100028: CC_1Middle_04
+    100030: CC_1Middle_04 1
+    100032: CC_2Large_01
+    100034: CC_2Large_01 1
+    100036: CC_2Large_02
+    100038: CC_2Large_02 1
+    100040: CC_2Large_03
+    100042: CC_2Large_03 1
+    100044: CC_2Large_04
+    100046: CC_2Large_04 1
+    100048: CC_2Middle_01
+    100050: CC_2Middle_01 1
+    100052: CC_2Middle_02
+    100054: CC_2Middle_02 1
+    100056: CC_2Middle_03
+    100058: CC_2Middle_03 1
+    100060: CC_2Middle_04
+    100062: CC_2Middle_04 1
+    100064: CC_3Large_01
+    100066: CC_3Large_01 1
+    100068: CC_3Large_02
+    100070: CC_3Large_02 1
+    100072: CC_3Large_03
+    100074: CC_3Large_03 1
+    100076: CC_3Large_04
+    100078: CC_3Large_04 1
+    100080: CC_Master
+    100082: CC_Small_01
+    100084: CC_Small_01 1
+    100086: CC_Small_02
+    100088: CC_Small_02 1
+    100090: CC_Small_03
+    100092: CC_Small_03 1
+    100094: CC_Small_04
+    100096: CC_Small_04 1
+    100098: CC_Sphere
+    100100: Flower1_01
+    100102: Flower1_01 1
+    100104: Flower1_01 2
+    100106: Flower1_01 3
+    100108: Flower1_01 4
+    100110: Flower1_01 5
+    100112: Flower1_01 6
+    100114: Flower1_01 7
+    100116: Flower1_01 8
+    100118: Flower1_01 9
+    100120: Flower1_02
+    100122: Flower1_02 1
+    100124: Flower1_02 2
+    100126: Flower1_02 3
+    100128: Flower1_02 4
+    100130: Flower1_02 5
+    100132: Flower1_03
+    100134: Flower1_03 1
+    100136: Flower1_03 2
+    100138: Flower1_03 3
+    100140: Flower1_04
+    100142: Flower1_04 1
+    100144: Flower1_04 2
+    100146: Flower1_04 3
+    100148: Flower1_Center
+    100150: Flower1_Center1
+    100152: Flower1_Center1 1
+    100154: Flower1_Center1 2
+    100156: Flower1_Center1 3
+    100158: Flower1_Center1 4
+    100160: Flower1_Center1 5
+    100162: Flower1_Center2
+    100164: Flower1_Center2 1
+    100166: Flower1_Center2 2
+    100168: Flower1_Center2 3
+    100170: Flower1_Center2 4
+    100172: Flower1_Center2 5
+    100174: Flower1_Center3
+    100176: Flower1_Center3 1
+    100178: Flower1_Center3 2
+    100180: Flower1_Center3 3
+    100182: Flower1_Center3 4
+    100184: Flower1_Center3 5
+    100186: Flower1_Center4
+    100188: Flower1_Center4 1
+    100190: Flower1_Center4 2
+    100192: Flower1_Center4 3
+    100194: Flower1_Center4 4
+    100196: Flower1_Center4 5
+    100198: Flower1_Center5
+    100200: Flower2_Center
+    100202: Flower2_Center1
+    100204: Flower3_Center
+    100206: Flower3_Center1
+    100208: Flower_01
+    100210: Flower_01 1
+    100212: Flower_02
+    100214: Flower_02 1
+    100216: group
+    100218: group1
+    100220: GRP_CC
+    100222: GRP_Joints
+    100224: GRP_Mesh
+    100226: J_Flower_01
+    100228: J_Flower_02
+    100230: joint1
+    100232: joint1 1
+    100234: joint1 2
+    100236: joint1 3
+    100238: joint2
+    100240: joint2 1
+    100242: joint2 2
+    100244: joint2 3
+    100246: joint3
+    100248: joint3 1
+    100250: joint3 2
+    100252: joint3 3
+    100254: joint4
+    100256: joint4 1
+    100258: joint4 2
+    100260: joint4 3
+    100262: joint5
+    100264: joint5 1
+    100266: joint6
+    100268: joint6 1
+    100270: joint7
+    100272: joint7 1
+    100274: joint8
+    100276: joint8 1
+    100278: //RootNode
+    100280: polySurface1
+    100282: polySurface10
+    100284: polySurface10 1
+    100286: polySurface11
+    100288: polySurface12
+    100290: polySurface13
+    100292: polySurface14
+    100294: polySurface15
+    100296: polySurface16
+    100298: polySurface2
+    100300: polySurface2 1
+    100302: polySurface3
+    100304: polySurface4
+    100306: polySurface5
+    100308: polySurface6
+    100310: polySurface7
+    100312: polySurface8
+    100314: polySurface9
+    100316: Sphere001
+    100318: transform1
+    100320: transform10
+    100322: transform11
+    100324: transform12
+    100326: transform13
+    100328: transform14
+    100330: transform15
+    100332: transform16
+    100334: transform17
+    100336: transform2
+    100338: transform3
+    100340: transform4
+    100342: transform5
+    100344: transform6
+    100346: transform7
+    100348: transform8
+    100350: transform9
+    400000: CC_1Large_01
+    400002: CC_1Large_01 1
+    400004: CC_1Large_03
+    400006: CC_1Large_03 1
+    400008: CC_1Large_04
+    400010: CC_1Large_04 1
+    400012: CC_1Large_07
+    400014: CC_1Large_07 1
+    400016: CC_1Middle_01
+    400018: CC_1Middle_01 1
+    400020: CC_1Middle_02
+    400022: CC_1Middle_02 1
+    400024: CC_1Middle_03
+    400026: CC_1Middle_03 1
+    400028: CC_1Middle_04
+    400030: CC_1Middle_04 1
+    400032: CC_2Large_01
+    400034: CC_2Large_01 1
+    400036: CC_2Large_02
+    400038: CC_2Large_02 1
+    400040: CC_2Large_03
+    400042: CC_2Large_03 1
+    400044: CC_2Large_04
+    400046: CC_2Large_04 1
+    400048: CC_2Middle_01
+    400050: CC_2Middle_01 1
+    400052: CC_2Middle_02
+    400054: CC_2Middle_02 1
+    400056: CC_2Middle_03
+    400058: CC_2Middle_03 1
+    400060: CC_2Middle_04
+    400062: CC_2Middle_04 1
+    400064: CC_3Large_01
+    400066: CC_3Large_01 1
+    400068: CC_3Large_02
+    400070: CC_3Large_02 1
+    400072: CC_3Large_03
+    400074: CC_3Large_03 1
+    400076: CC_3Large_04
+    400078: CC_3Large_04 1
+    400080: CC_Master
+    400082: CC_Small_01
+    400084: CC_Small_01 1
+    400086: CC_Small_02
+    400088: CC_Small_02 1
+    400090: CC_Small_03
+    400092: CC_Small_03 1
+    400094: CC_Small_04
+    400096: CC_Small_04 1
+    400098: CC_Sphere
+    400100: Flower1_01
+    400102: Flower1_01 1
+    400104: Flower1_01 2
+    400106: Flower1_01 3
+    400108: Flower1_01 4
+    400110: Flower1_01 5
+    400112: Flower1_01 6
+    400114: Flower1_01 7
+    400116: Flower1_01 8
+    400118: Flower1_01 9
+    400120: Flower1_02
+    400122: Flower1_02 1
+    400124: Flower1_02 2
+    400126: Flower1_02 3
+    400128: Flower1_02 4
+    400130: Flower1_02 5
+    400132: Flower1_03
+    400134: Flower1_03 1
+    400136: Flower1_03 2
+    400138: Flower1_03 3
+    400140: Flower1_04
+    400142: Flower1_04 1
+    400144: Flower1_04 2
+    400146: Flower1_04 3
+    400148: Flower1_Center
+    400150: Flower1_Center1
+    400152: Flower1_Center1 1
+    400154: Flower1_Center1 2
+    400156: Flower1_Center1 3
+    400158: Flower1_Center1 4
+    400160: Flower1_Center1 5
+    400162: Flower1_Center2
+    400164: Flower1_Center2 1
+    400166: Flower1_Center2 2
+    400168: Flower1_Center2 3
+    400170: Flower1_Center2 4
+    400172: Flower1_Center2 5
+    400174: Flower1_Center3
+    400176: Flower1_Center3 1
+    400178: Flower1_Center3 2
+    400180: Flower1_Center3 3
+    400182: Flower1_Center3 4
+    400184: Flower1_Center3 5
+    400186: Flower1_Center4
+    400188: Flower1_Center4 1
+    400190: Flower1_Center4 2
+    400192: Flower1_Center4 3
+    400194: Flower1_Center4 4
+    400196: Flower1_Center4 5
+    400198: Flower1_Center5
+    400200: Flower2_Center
+    400202: Flower2_Center1
+    400204: Flower3_Center
+    400206: Flower3_Center1
+    400208: Flower_01
+    400210: Flower_01 1
+    400212: Flower_02
+    400214: Flower_02 1
+    400216: group
+    400218: group1
+    400220: GRP_CC
+    400222: GRP_Joints
+    400224: GRP_Mesh
+    400226: J_Flower_01
+    400228: J_Flower_02
+    400230: joint1
+    400232: joint1 1
+    400234: joint1 2
+    400236: joint1 3
+    400238: joint2
+    400240: joint2 1
+    400242: joint2 2
+    400244: joint2 3
+    400246: joint3
+    400248: joint3 1
+    400250: joint3 2
+    400252: joint3 3
+    400254: joint4
+    400256: joint4 1
+    400258: joint4 2
+    400260: joint4 3
+    400262: joint5
+    400264: joint5 1
+    400266: joint6
+    400268: joint6 1
+    400270: joint7
+    400272: joint7 1
+    400274: joint8
+    400276: joint8 1
+    400278: //RootNode
+    400280: polySurface1
+    400282: polySurface10
+    400284: polySurface10 1
+    400286: polySurface11
+    400288: polySurface12
+    400290: polySurface13
+    400292: polySurface14
+    400294: polySurface15
+    400296: polySurface16
+    400298: polySurface2
+    400300: polySurface2 1
+    400302: polySurface3
+    400304: polySurface4
+    400306: polySurface5
+    400308: polySurface6
+    400310: polySurface7
+    400312: polySurface8
+    400314: polySurface9
+    400316: Sphere001
+    400318: transform1
+    400320: transform10
+    400322: transform11
+    400324: transform12
+    400326: transform13
+    400328: transform14
+    400330: transform15
+    400332: transform16
+    400334: transform17
+    400336: transform2
+    400338: transform3
+    400340: transform4
+    400342: transform5
+    400344: transform6
+    400346: transform7
+    400348: transform8
+    400350: transform9
+    4300000: polySurface16
+    7400000: idle
+    7400002: manipulate
+    9500000: //RootNode
+    13700000: polySurface16
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle
+      takeName: Take 001
+      firstFrame: 50
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: group
+        weight: 1
+      - path: GRP_CC
+        weight: 1
+      - path: GRP_CC/CC_Master
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_01 1
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_01 1/CC_1Large_01
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_01 1/CC_1Large_01/CC_2Large_01
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_01 1/CC_1Large_01/CC_2Large_01/CC_3Large_01
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_01 1/CC_1Large_03
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_01 1/CC_1Large_03/CC_2Large_03
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_01 1/CC_1Large_03/CC_2Large_03/CC_3Large_03
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_01 1/CC_1Large_04
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_01 1/CC_1Large_04/CC_2Large_04
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_01 1/CC_1Large_04/CC_2Large_04/CC_3Large_04
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_01 1/CC_1Large_07
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_01 1/CC_1Large_07/CC_2Large_02
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_01 1/CC_1Large_07/CC_2Large_02/CC_3Large_02
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_01 1/CC_1Middle_01
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_01 1/CC_1Middle_01/CC_2Middle_01
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_01 1/CC_1Middle_02
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_01 1/CC_1Middle_02/CC_2Middle_02
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_01 1/CC_1Middle_03
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_01 1/CC_1Middle_03/CC_2Middle_03
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_01 1/CC_1Middle_04
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_01 1/CC_1Middle_04/CC_2Middle_04
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_01 1/CC_Small_01
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_01 1/CC_Small_02
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_01 1/CC_Small_03
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_01 1/CC_Small_04
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_01 1/CC_Sphere
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_02 1
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_02 1/CC_1Large_01 1
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_02 1/CC_1Large_01 1/CC_2Large_01 1
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_02 1/CC_1Large_01 1/CC_2Large_01 1/CC_3Large_01
+          1
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_02 1/CC_1Large_03 1
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_02 1/CC_1Large_03 1/CC_2Large_03 1
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_02 1/CC_1Large_03 1/CC_2Large_03 1/CC_3Large_03
+          1
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_02 1/CC_1Large_04 1
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_02 1/CC_1Large_04 1/CC_2Large_04 1
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_02 1/CC_1Large_04 1/CC_2Large_04 1/CC_3Large_04
+          1
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_02 1/CC_1Large_07 1
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_02 1/CC_1Large_07 1/CC_2Large_02 1
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_02 1/CC_1Large_07 1/CC_2Large_02 1/CC_3Large_02
+          1
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_02 1/CC_1Middle_01 1
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_02 1/CC_1Middle_01 1/CC_2Middle_01 1
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_02 1/CC_1Middle_02 1
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_02 1/CC_1Middle_02 1/CC_2Middle_02 1
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_02 1/CC_1Middle_03 1
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_02 1/CC_1Middle_03 1/CC_2Middle_03 1
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_02 1/CC_1Middle_04 1
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_02 1/CC_1Middle_04 1/CC_2Middle_04 1
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_02 1/CC_Small_01 1
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_02 1/CC_Small_02 1
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_02 1/CC_Small_03 1
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_02 1/CC_Small_04 1
+        weight: 1
+      - path: GRP_Joints
+        weight: 1
+      - path: GRP_Joints/J_Flower_01
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower1_Center
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower1_Center/Flower1_Center1
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower1_Center/Flower1_Center1/Flower1_02
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower1_Center/Flower1_Center2
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower1_Center/Flower1_Center2/Flower1_01
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower1_Center/Flower1_Center3
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower1_Center/Flower1_Center3/Flower1_01 1
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower1_Center/Flower1_Center4
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower1_Center/Flower1_Center4/Flower1_01 2
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower2_Center
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower2_Center/Flower1_Center1 1
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower2_Center/Flower1_Center1 1/Flower1_02 1
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower2_Center/Flower1_Center1 1/Flower1_02 1/joint2
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower2_Center/Flower1_Center2 1
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower2_Center/Flower1_Center2 1/Flower1_01 3
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower2_Center/Flower1_Center2 1/Flower1_01 3/joint1
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower2_Center/Flower1_Center3 1
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower2_Center/Flower1_Center3 1/Flower1_04
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower2_Center/Flower1_Center3 1/Flower1_04/joint4
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower2_Center/Flower1_Center4 1
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower2_Center/Flower1_Center4 1/Flower1_03
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower2_Center/Flower1_Center4 1/Flower1_03/joint3
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower3_Center
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower3_Center/Flower1_Center1 2
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower3_Center/Flower1_Center1 2/Flower1_02 2
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower3_Center/Flower1_Center1 2/Flower1_02 2/joint2
+          1
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower3_Center/Flower1_Center1 2/Flower1_02 2/joint2
+          1/joint6
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower3_Center/Flower1_Center2 2
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower3_Center/Flower1_Center2 2/Flower1_01 4
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower3_Center/Flower1_Center2 2/Flower1_01 4/joint1
+          1
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower3_Center/Flower1_Center2 2/Flower1_01 4/joint1
+          1/joint7
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower3_Center/Flower1_Center3 2
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower3_Center/Flower1_Center3 2/Flower1_04 1
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower3_Center/Flower1_Center3 2/Flower1_04 1/joint4
+          1
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower3_Center/Flower1_Center3 2/Flower1_04 1/joint4
+          1/joint8
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower3_Center/Flower1_Center4 2
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower3_Center/Flower1_Center4 2/Flower1_03 1
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower3_Center/Flower1_Center4 2/Flower1_03 1/joint3
+          1
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower3_Center/Flower1_Center4 2/Flower1_03 1/joint3
+          1/joint5
+        weight: 1
+      - path: GRP_Joints/J_Flower_02
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower1_Center5
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower1_Center5/Flower1_Center1 3
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower1_Center5/Flower1_Center1 3/Flower1_02
+          3
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower1_Center5/Flower1_Center2 3
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower1_Center5/Flower1_Center2 3/Flower1_01
+          5
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower1_Center5/Flower1_Center3 3
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower1_Center5/Flower1_Center3 3/Flower1_01
+          6
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower1_Center5/Flower1_Center4 3
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower1_Center5/Flower1_Center4 3/Flower1_01
+          7
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower2_Center1
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower2_Center1/Flower1_Center1 4
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower2_Center1/Flower1_Center1 4/Flower1_02
+          4
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower2_Center1/Flower1_Center1 4/Flower1_02
+          4/joint2 2
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower2_Center1/Flower1_Center2 4
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower2_Center1/Flower1_Center2 4/Flower1_01
+          8
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower2_Center1/Flower1_Center2 4/Flower1_01
+          8/joint1 2
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower2_Center1/Flower1_Center3 4
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower2_Center1/Flower1_Center3 4/Flower1_04
+          2
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower2_Center1/Flower1_Center3 4/Flower1_04
+          2/joint4 2
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower2_Center1/Flower1_Center4 4
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower2_Center1/Flower1_Center4 4/Flower1_03
+          2
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower2_Center1/Flower1_Center4 4/Flower1_03
+          2/joint3 2
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower3_Center1
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower3_Center1/Flower1_Center1 5
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower3_Center1/Flower1_Center1 5/Flower1_02
+          5
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower3_Center1/Flower1_Center1 5/Flower1_02
+          5/joint2 3
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower3_Center1/Flower1_Center1 5/Flower1_02
+          5/joint2 3/joint6 1
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower3_Center1/Flower1_Center2 5
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower3_Center1/Flower1_Center2 5/Flower1_01
+          9
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower3_Center1/Flower1_Center2 5/Flower1_01
+          9/joint1 3
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower3_Center1/Flower1_Center2 5/Flower1_01
+          9/joint1 3/joint7 1
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower3_Center1/Flower1_Center3 5
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower3_Center1/Flower1_Center3 5/Flower1_04
+          3
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower3_Center1/Flower1_Center3 5/Flower1_04
+          3/joint4 3
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower3_Center1/Flower1_Center3 5/Flower1_04
+          3/joint4 3/joint8 1
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower3_Center1/Flower1_Center4 5
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower3_Center1/Flower1_Center4 5/Flower1_03
+          3
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower3_Center1/Flower1_Center4 5/Flower1_03
+          3/joint3 3
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower3_Center1/Flower1_Center4 5/Flower1_03
+          3/joint3 3/joint5 1
+        weight: 1
+      - path: GRP_Mesh
+        weight: 1
+      - path: GRP_Mesh/Flower_01
+        weight: 1
+      - path: GRP_Mesh/Flower_01/polySurface9
+        weight: 1
+      - path: GRP_Mesh/Flower_01/polySurface9/transform14
+        weight: 1
+      - path: GRP_Mesh/Flower_01/polySurface12
+        weight: 1
+      - path: GRP_Mesh/Flower_01/polySurface12/transform13
+        weight: 1
+      - path: GRP_Mesh/Flower_01/polySurface14
+        weight: 1
+      - path: GRP_Mesh/Flower_01/polySurface14/transform10
+        weight: 1
+      - path: GRP_Mesh/Flower_02
+        weight: 1
+      - path: GRP_Mesh/Flower_02/polySurface10 1
+        weight: 1
+      - path: GRP_Mesh/Flower_02/polySurface10 1/transform15
+        weight: 1
+      - path: GRP_Mesh/Flower_02/polySurface11
+        weight: 1
+      - path: GRP_Mesh/Flower_02/polySurface11/transform12
+        weight: 1
+      - path: GRP_Mesh/Flower_02/polySurface13
+        weight: 1
+      - path: GRP_Mesh/Flower_02/polySurface13/transform11
+        weight: 1
+      - path: GRP_Mesh/group1
+        weight: 1
+      - path: GRP_Mesh/group1/Sphere001
+        weight: 1
+      - path: GRP_Mesh/group1/Sphere001/polySurface1
+        weight: 1
+      - path: GRP_Mesh/group1/Sphere001/polySurface1/transform16
+        weight: 1
+      - path: GRP_Mesh/group1/Sphere001/polySurface2 1
+        weight: 1
+      - path: GRP_Mesh/group1/Sphere001/polySurface2 1/transform8
+        weight: 1
+      - path: GRP_Mesh/group1/Sphere001/polySurface3
+        weight: 1
+      - path: GRP_Mesh/group1/Sphere001/polySurface3/transform7
+        weight: 1
+      - path: GRP_Mesh/group1/Sphere001/polySurface4
+        weight: 1
+      - path: GRP_Mesh/group1/Sphere001/polySurface4/transform6
+        weight: 1
+      - path: GRP_Mesh/group1/Sphere001/polySurface5
+        weight: 1
+      - path: GRP_Mesh/group1/Sphere001/polySurface5/transform5
+        weight: 1
+      - path: GRP_Mesh/group1/Sphere001/polySurface6
+        weight: 1
+      - path: GRP_Mesh/group1/Sphere001/polySurface6/transform4
+        weight: 1
+      - path: GRP_Mesh/group1/Sphere001/polySurface7
+        weight: 1
+      - path: GRP_Mesh/group1/Sphere001/polySurface7/transform3
+        weight: 1
+      - path: GRP_Mesh/group1/Sphere001/polySurface8
+        weight: 1
+      - path: GRP_Mesh/group1/Sphere001/polySurface8/transform2
+        weight: 1
+      - path: GRP_Mesh/group1/Sphere001/transform1
+        weight: 1
+      - path: GRP_Mesh/polySurface2
+        weight: 1
+      - path: GRP_Mesh/polySurface10
+        weight: 1
+      - path: GRP_Mesh/polySurface10/transform17
+        weight: 1
+      - path: GRP_Mesh/polySurface15
+        weight: 1
+      - path: GRP_Mesh/polySurface15/transform9
+        weight: 1
+      - path: GRP_Mesh/polySurface16
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: manipulate
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: group
+        weight: 1
+      - path: GRP_CC
+        weight: 1
+      - path: GRP_CC/CC_Master
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_01 1
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_01 1/CC_1Large_01
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_01 1/CC_1Large_01/CC_2Large_01
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_01 1/CC_1Large_01/CC_2Large_01/CC_3Large_01
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_01 1/CC_1Large_03
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_01 1/CC_1Large_03/CC_2Large_03
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_01 1/CC_1Large_03/CC_2Large_03/CC_3Large_03
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_01 1/CC_1Large_04
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_01 1/CC_1Large_04/CC_2Large_04
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_01 1/CC_1Large_04/CC_2Large_04/CC_3Large_04
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_01 1/CC_1Large_07
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_01 1/CC_1Large_07/CC_2Large_02
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_01 1/CC_1Large_07/CC_2Large_02/CC_3Large_02
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_01 1/CC_1Middle_01
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_01 1/CC_1Middle_01/CC_2Middle_01
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_01 1/CC_1Middle_02
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_01 1/CC_1Middle_02/CC_2Middle_02
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_01 1/CC_1Middle_03
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_01 1/CC_1Middle_03/CC_2Middle_03
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_01 1/CC_1Middle_04
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_01 1/CC_1Middle_04/CC_2Middle_04
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_01 1/CC_Small_01
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_01 1/CC_Small_02
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_01 1/CC_Small_03
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_01 1/CC_Small_04
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_01 1/CC_Sphere
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_02 1
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_02 1/CC_1Large_01 1
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_02 1/CC_1Large_01 1/CC_2Large_01 1
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_02 1/CC_1Large_01 1/CC_2Large_01 1/CC_3Large_01
+          1
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_02 1/CC_1Large_03 1
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_02 1/CC_1Large_03 1/CC_2Large_03 1
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_02 1/CC_1Large_03 1/CC_2Large_03 1/CC_3Large_03
+          1
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_02 1/CC_1Large_04 1
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_02 1/CC_1Large_04 1/CC_2Large_04 1
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_02 1/CC_1Large_04 1/CC_2Large_04 1/CC_3Large_04
+          1
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_02 1/CC_1Large_07 1
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_02 1/CC_1Large_07 1/CC_2Large_02 1
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_02 1/CC_1Large_07 1/CC_2Large_02 1/CC_3Large_02
+          1
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_02 1/CC_1Middle_01 1
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_02 1/CC_1Middle_01 1/CC_2Middle_01 1
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_02 1/CC_1Middle_02 1
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_02 1/CC_1Middle_02 1/CC_2Middle_02 1
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_02 1/CC_1Middle_03 1
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_02 1/CC_1Middle_03 1/CC_2Middle_03 1
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_02 1/CC_1Middle_04 1
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_02 1/CC_1Middle_04 1/CC_2Middle_04 1
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_02 1/CC_Small_01 1
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_02 1/CC_Small_02 1
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_02 1/CC_Small_03 1
+        weight: 1
+      - path: GRP_CC/CC_Master/Flower_02 1/CC_Small_04 1
+        weight: 1
+      - path: GRP_Joints
+        weight: 1
+      - path: GRP_Joints/J_Flower_01
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower1_Center
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower1_Center/Flower1_Center1
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower1_Center/Flower1_Center1/Flower1_02
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower1_Center/Flower1_Center2
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower1_Center/Flower1_Center2/Flower1_01
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower1_Center/Flower1_Center3
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower1_Center/Flower1_Center3/Flower1_01 1
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower1_Center/Flower1_Center4
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower1_Center/Flower1_Center4/Flower1_01 2
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower2_Center
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower2_Center/Flower1_Center1 1
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower2_Center/Flower1_Center1 1/Flower1_02 1
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower2_Center/Flower1_Center1 1/Flower1_02 1/joint2
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower2_Center/Flower1_Center2 1
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower2_Center/Flower1_Center2 1/Flower1_01 3
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower2_Center/Flower1_Center2 1/Flower1_01 3/joint1
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower2_Center/Flower1_Center3 1
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower2_Center/Flower1_Center3 1/Flower1_04
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower2_Center/Flower1_Center3 1/Flower1_04/joint4
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower2_Center/Flower1_Center4 1
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower2_Center/Flower1_Center4 1/Flower1_03
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower2_Center/Flower1_Center4 1/Flower1_03/joint3
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower3_Center
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower3_Center/Flower1_Center1 2
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower3_Center/Flower1_Center1 2/Flower1_02 2
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower3_Center/Flower1_Center1 2/Flower1_02 2/joint2
+          1
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower3_Center/Flower1_Center1 2/Flower1_02 2/joint2
+          1/joint6
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower3_Center/Flower1_Center2 2
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower3_Center/Flower1_Center2 2/Flower1_01 4
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower3_Center/Flower1_Center2 2/Flower1_01 4/joint1
+          1
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower3_Center/Flower1_Center2 2/Flower1_01 4/joint1
+          1/joint7
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower3_Center/Flower1_Center3 2
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower3_Center/Flower1_Center3 2/Flower1_04 1
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower3_Center/Flower1_Center3 2/Flower1_04 1/joint4
+          1
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower3_Center/Flower1_Center3 2/Flower1_04 1/joint4
+          1/joint8
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower3_Center/Flower1_Center4 2
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower3_Center/Flower1_Center4 2/Flower1_03 1
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower3_Center/Flower1_Center4 2/Flower1_03 1/joint3
+          1
+        weight: 1
+      - path: GRP_Joints/J_Flower_01/Flower3_Center/Flower1_Center4 2/Flower1_03 1/joint3
+          1/joint5
+        weight: 1
+      - path: GRP_Joints/J_Flower_02
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower1_Center5
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower1_Center5/Flower1_Center1 3
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower1_Center5/Flower1_Center1 3/Flower1_02
+          3
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower1_Center5/Flower1_Center2 3
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower1_Center5/Flower1_Center2 3/Flower1_01
+          5
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower1_Center5/Flower1_Center3 3
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower1_Center5/Flower1_Center3 3/Flower1_01
+          6
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower1_Center5/Flower1_Center4 3
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower1_Center5/Flower1_Center4 3/Flower1_01
+          7
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower2_Center1
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower2_Center1/Flower1_Center1 4
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower2_Center1/Flower1_Center1 4/Flower1_02
+          4
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower2_Center1/Flower1_Center1 4/Flower1_02
+          4/joint2 2
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower2_Center1/Flower1_Center2 4
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower2_Center1/Flower1_Center2 4/Flower1_01
+          8
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower2_Center1/Flower1_Center2 4/Flower1_01
+          8/joint1 2
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower2_Center1/Flower1_Center3 4
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower2_Center1/Flower1_Center3 4/Flower1_04
+          2
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower2_Center1/Flower1_Center3 4/Flower1_04
+          2/joint4 2
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower2_Center1/Flower1_Center4 4
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower2_Center1/Flower1_Center4 4/Flower1_03
+          2
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower2_Center1/Flower1_Center4 4/Flower1_03
+          2/joint3 2
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower3_Center1
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower3_Center1/Flower1_Center1 5
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower3_Center1/Flower1_Center1 5/Flower1_02
+          5
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower3_Center1/Flower1_Center1 5/Flower1_02
+          5/joint2 3
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower3_Center1/Flower1_Center1 5/Flower1_02
+          5/joint2 3/joint6 1
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower3_Center1/Flower1_Center2 5
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower3_Center1/Flower1_Center2 5/Flower1_01
+          9
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower3_Center1/Flower1_Center2 5/Flower1_01
+          9/joint1 3
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower3_Center1/Flower1_Center2 5/Flower1_01
+          9/joint1 3/joint7 1
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower3_Center1/Flower1_Center3 5
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower3_Center1/Flower1_Center3 5/Flower1_04
+          3
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower3_Center1/Flower1_Center3 5/Flower1_04
+          3/joint4 3
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower3_Center1/Flower1_Center3 5/Flower1_04
+          3/joint4 3/joint8 1
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower3_Center1/Flower1_Center4 5
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower3_Center1/Flower1_Center4 5/Flower1_03
+          3
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower3_Center1/Flower1_Center4 5/Flower1_03
+          3/joint3 3
+        weight: 1
+      - path: GRP_Joints/J_Flower_02/Flower3_Center1/Flower1_Center4 5/Flower1_03
+          3/joint3 3/joint5 1
+        weight: 1
+      - path: GRP_Mesh
+        weight: 1
+      - path: GRP_Mesh/Flower_01
+        weight: 1
+      - path: GRP_Mesh/Flower_01/polySurface9
+        weight: 1
+      - path: GRP_Mesh/Flower_01/polySurface9/transform14
+        weight: 1
+      - path: GRP_Mesh/Flower_01/polySurface12
+        weight: 1
+      - path: GRP_Mesh/Flower_01/polySurface12/transform13
+        weight: 1
+      - path: GRP_Mesh/Flower_01/polySurface14
+        weight: 1
+      - path: GRP_Mesh/Flower_01/polySurface14/transform10
+        weight: 1
+      - path: GRP_Mesh/Flower_02
+        weight: 1
+      - path: GRP_Mesh/Flower_02/polySurface10 1
+        weight: 1
+      - path: GRP_Mesh/Flower_02/polySurface10 1/transform15
+        weight: 1
+      - path: GRP_Mesh/Flower_02/polySurface11
+        weight: 1
+      - path: GRP_Mesh/Flower_02/polySurface11/transform12
+        weight: 1
+      - path: GRP_Mesh/Flower_02/polySurface13
+        weight: 1
+      - path: GRP_Mesh/Flower_02/polySurface13/transform11
+        weight: 1
+      - path: GRP_Mesh/group1
+        weight: 1
+      - path: GRP_Mesh/group1/Sphere001
+        weight: 1
+      - path: GRP_Mesh/group1/Sphere001/polySurface1
+        weight: 1
+      - path: GRP_Mesh/group1/Sphere001/polySurface1/transform16
+        weight: 1
+      - path: GRP_Mesh/group1/Sphere001/polySurface2 1
+        weight: 1
+      - path: GRP_Mesh/group1/Sphere001/polySurface2 1/transform8
+        weight: 1
+      - path: GRP_Mesh/group1/Sphere001/polySurface3
+        weight: 1
+      - path: GRP_Mesh/group1/Sphere001/polySurface3/transform7
+        weight: 1
+      - path: GRP_Mesh/group1/Sphere001/polySurface4
+        weight: 1
+      - path: GRP_Mesh/group1/Sphere001/polySurface4/transform6
+        weight: 1
+      - path: GRP_Mesh/group1/Sphere001/polySurface5
+        weight: 1
+      - path: GRP_Mesh/group1/Sphere001/polySurface5/transform5
+        weight: 1
+      - path: GRP_Mesh/group1/Sphere001/polySurface6
+        weight: 1
+      - path: GRP_Mesh/group1/Sphere001/polySurface6/transform4
+        weight: 1
+      - path: GRP_Mesh/group1/Sphere001/polySurface7
+        weight: 1
+      - path: GRP_Mesh/group1/Sphere001/polySurface7/transform3
+        weight: 1
+      - path: GRP_Mesh/group1/Sphere001/polySurface8
+        weight: 1
+      - path: GRP_Mesh/group1/Sphere001/polySurface8/transform2
+        weight: 1
+      - path: GRP_Mesh/group1/Sphere001/transform1
+        weight: 1
+      - path: GRP_Mesh/polySurface2
+        weight: 1
+      - path: GRP_Mesh/polySurface10
+        weight: 1
+      - path: GRP_Mesh/polySurface10/transform17
+        weight: 1
+      - path: GRP_Mesh/polySurface15
+        weight: 1
+      - path: GRP_Mesh/polySurface15/transform9
+        weight: 1
+      - path: GRP_Mesh/polySurface16
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
