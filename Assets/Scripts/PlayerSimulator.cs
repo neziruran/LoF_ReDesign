@@ -90,9 +90,9 @@ public class PlayerSimulator: MessageBehaviour
 	
 	void Update () 
 	{
-		
+				
 		myTransform.position = new Vector3(myTransform.position.x, userHeight, myTransform.position.z);
-
+		updatePlayerPosition();
 
 		/*
 		 * hunt is only enabled when:

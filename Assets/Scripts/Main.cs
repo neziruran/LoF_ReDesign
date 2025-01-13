@@ -330,24 +330,18 @@ public class Main : MessageBehaviour {
 	
 	int zoneCatched ( Transform swarm)
 	{
-		
-		if(zoneWater.GetComponent<Collider>().bounds.Contains(swarm.position) == true)
+
+		if(zoneWater.GetComponent<Collider>().bounds.Contains(swarm.position))
 		{
 			return 1;
 
-		}else if(zoneIce.GetComponent<Collider>().bounds.Contains(swarm.position) == true)
+		}
+		if(zoneIce.GetComponent<Collider>().bounds.Contains(swarm.position))
 		{
 			return 2;
 
-		}else if(zoneLava.GetComponent<Collider>().bounds.Contains(swarm.position) == true)
-		{
-			return 3;
-
-		}else
-		{
-			return 4;		
-		}	
-
+		}
+		return zoneLava.GetComponent<Collider>().bounds.Contains(swarm.position) ? 3 : 4;
 	}	
 
 	public void loadcreature ( string creature, GameObject myplayer, GameObject otherplayer, Vector3 initPos = default(Vector3), string Tag = default(string), int textureCount = default(int))

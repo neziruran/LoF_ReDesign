@@ -110,7 +110,7 @@ public class FogManager : MessageBehaviour {
 					FogBehaviour(new Vector3(creature1.transform.position.x, floorDistance, creature1.transform.position.z), new Vector3(creature2.transform.position.x, floorDistance, creature2.transform.position.z));
 				}
 
-			break;
+				break;
 
 			case FogState.Freeze:
 
