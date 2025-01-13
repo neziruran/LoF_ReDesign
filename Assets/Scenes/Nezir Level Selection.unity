@@ -311,7 +311,7 @@ MonoBehaviour:
   gemRenderer: {fileID: 1686908705}
   deactivateAlpha: 0.2
   activatedAlpha: 1
-  animationDuration: 0.5
+  animationDuration: 1
   levelSelection: {fileID: 0}
   requiredPlayerToActivation: 4
 --- !u!54 &37893764
@@ -928,7 +928,7 @@ MonoBehaviour:
   gemRenderer: {fileID: 307040124}
   deactivateAlpha: 0.2
   activatedAlpha: 1
-  animationDuration: 0.5
+  animationDuration: 1
   levelSelection: {fileID: 0}
   requiredPlayerToActivation: 4
 --- !u!54 &952474147
@@ -1240,7 +1240,7 @@ MonoBehaviour:
   gemRenderer: {fileID: 1908585193}
   deactivateAlpha: 0.2
   activatedAlpha: 1
-  animationDuration: 0.5
+  animationDuration: 1
   levelSelection: {fileID: 0}
   requiredPlayerToActivation: 4
 --- !u!54 &1586749732
@@ -2012,7 +2012,7 @@ MonoBehaviour:
   gemRenderer: {fileID: 187477259}
   deactivateAlpha: 0.2
   activatedAlpha: 1
-  animationDuration: 0.5
+  animationDuration: 1
   levelSelection: {fileID: 0}
   requiredPlayerToActivation: 4
 --- !u!54 &2081541018
