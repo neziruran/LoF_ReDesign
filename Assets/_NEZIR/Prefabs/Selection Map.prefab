@@ -65580,6 +65580,7 @@ MonoBehaviour:
   levelRenderer: {fileID: 2628046807451447865}
   gemRenderer: {fileID: 2628046808143006538}
   levelSelection: {fileID: 0}
+  map: 0
 --- !u!54 &2628046806781259227
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -69226,7 +69227,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2628046806902916756}
-  - component: {fileID: 2628046806902916759}
   m_Layer: 0
   m_Name: Selection Map
   m_TagString: Untagged
@@ -69251,23 +69251,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &2628046806902916759
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2628046806902916757}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d369255ce8441d54a849516d0ac15f26, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  selectedLevel: {fileID: 0}
-  deactivateAlpha: 0.3
-  activatedAlpha: 1
-  animationDuration: 0.5
-  requiredPlayerToActivation: 4
 --- !u!1 &2628046806903543128
 GameObject:
   m_ObjectHideFlags: 0
@@ -80422,6 +80405,7 @@ MonoBehaviour:
   levelRenderer: {fileID: 2628046807838836314}
   gemRenderer: {fileID: 2628046806970832040}
   levelSelection: {fileID: 0}
+  map: 3
 --- !u!54 &2628046807292823397
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -99459,6 +99443,7 @@ MonoBehaviour:
   levelRenderer: {fileID: 2628046806472331614}
   gemRenderer: {fileID: 2628046808556185917}
   levelSelection: {fileID: 0}
+  map: 2
 --- !u!54 &2628046807927602274
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -110285,6 +110270,7 @@ MonoBehaviour:
   levelRenderer: {fileID: 2628046806519727401}
   gemRenderer: {fileID: 2628046806656092512}
   levelSelection: {fileID: 0}
+  map: 1
 --- !u!54 &2628046808287809733
 Rigidbody:
   m_ObjectHideFlags: 0
